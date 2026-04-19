@@ -88,7 +88,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
 http://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8
 #EXTINF:-1 tvg-id="Rai Gulp.it" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Rai_Gulp.png" group-title="Kids",Rai Gulp
 https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.m3u8|user-agent=rainet/4.0.8
-#EXTINF:-1 tvg-id="Rai YoYo.it" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Ray_Yoyo.png" group-title="Kids",Rai YoYo
+#EXTINF:-1 tvg-id="Rai YoYo.it" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Rai_Yoyo.png" group-title="Kids",Rai YoYo
 #EXTVLCOPT:http-user-agent=rainet/4.0.8
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7
 #EXTINF:-1 tvg-id="FRISBEE.it" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Frisbee.png" group-title="Kids",Frisbee
@@ -98,13 +98,13 @@ http://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a6
 https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Super!.it" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Super.png" group-title="Kids",Super!
 http://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8|user-agent=HbbTV/1.6.1
-#EXTINF:-1 tvg-id="Rai News 24.it" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Rai_News_24.png" group-title="News",Rai News 24
+#EXTINF:-1 tvg-id="Rai News 24.it" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Rai_News_24.jpg" group-title="News",Rai News 24
 #EXTVLCOPT:http-user-agent=rainet/4.0.8
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7
-#EXTINF:-1 tvg-id="Mediaset Italia Due.it" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Mediaset_Italia2.png" group-title="Mediaset",Mediaset Italia 2
+#EXTINF:-1 tvg-id="Mediaset Italia Due.it" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Mediaset_Italia2.jpg" group-title="Mediaset",Mediaset Italia 2
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="Sky Tg24.it" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Sky_TG24.png" group-title="News",Sky TG24
+#EXTINF:-1 tvg-id="Sky Tg24.it" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Sky_TG24.jpg" group-title="News",Sky TG24
 http://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:-1 tvg-id="TgCom24.it" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Mediaset_TGCom24.png" group-title="News",TGCOM 24
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -135,12 +135,12 @@ http://d2bbbc1corbwv1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="Radio 105.it" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Radio_105.png" group-title="Musica",Radio 105 TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="R101.it" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/R101.png" group-title="Musica",R101 TV
+#EXTINF:-1 tvg-id="R101.it" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/R101.jpg" group-title="Musica",R101 TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/BOM_Channel.png" group-title="Altro",BOM Channel
 https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
-#EXTINF:-1 tvg-id="Deejay TV.it" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Deejay_TV.png" group-title="Musica",Deejay TV
+#EXTINF:-1 tvg-id="Deejay TV.it" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Deejay_TV.jpg" group-title="Musica",Deejay TV
 http://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioItaliaTV.it" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Radio_Italia.png" group-title="Musica",RadioItalia TV
 http://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
@@ -187,7 +187,7 @@ https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Rai_Radio_2.png" group-title="Rai",Rai Radio 2 Visual Radio
 #EXTVLCOPT:http-user-agent=rainet/4.0.8
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Pianeta_Salute_TV.png" group-title="Salute",Pianeta Salute TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Pianeta_Salute_TV.jpg" group-title="Salute",Pianeta Salute TV
 https://64b16f23efbee.streamlock.net/pianetasalutetv/pianetasalutetv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/RTL_102_5_Traffic.png" group-title="Musica",RTL 102.5 Traffic
 http://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
@@ -199,7 +199,7 @@ http://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/ma
 http://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Bejoy_Kids.jpg" group-title="Kids",BeJoy.Kids
 https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8
-#EXTINF:-1 tvg-id="radiofreccia.it" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Radiofreccia.png" group-title="Musica",RadioFreccia
+#EXTINF:-1 tvg-id="radiofreccia.it" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Radiofreccia.jpg" group-title="Musica",RadioFreccia
 http://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Urania_TV.png" group-title="Altro",Urania TV
 http://streamcdng5-69d6d7eab63943c4810c4098feaa0d9c.msvdn.net/live/S76542633/a8BwWIUxagF6/playlist.m3u8
@@ -215,7 +215,7 @@ http://streamer2.premio.link/imprese/playlist.m3u8
 https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Radio_Capital.png" group-title="Musica",Radio Capital TiVù
 http://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Radio_m2o.png" group-title="Musica",Radio m2o TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Radio_m2o.jpg" group-title="Musica",Radio m2o TV
 http://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio Monte Carlo.it" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/RMC.png" group-title="Musica",Radio Montecarlo TV
 #EXTVLCOPT:http-user-agent=okhttp/5.3.2
@@ -239,7 +239,7 @@ http://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8_outpu
 https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/GR_News_TV.png" group-title="News",Giornale Radio News TV
 https://gr2.fluid.stream/GR_sport/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/TMV.png" group-title="Sport",TMW Radio TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/TMW.png" group-title="Sport",TMW Radio TV
 https://tvd-tmw.fluid.stream/TMWRadioTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="ITBD2300001MT" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/RBN_TV.png" group-title="Sport",Radio Bianconera TV
 https://tmw.fluid.stream/RadioBianconeraTV/livestream/playlist.m3u8
@@ -299,7 +299,7 @@ https://585b674743bbb.streamlock.net/9076/9076/playlist.m3u8
 http://tvd-love.fluid.stream/LoveFM/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Radio_Linea_1.png" group-title="Musica",Radio Linea n°1 TV
 https://64b16f23efbee.streamlock.net/radiolineatv/radiolineatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Radio_JukeBox.png" group-title="Musica",Radio JukeBox TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Radio_JukeBox.jpg" group-title="Musica",Radio JukeBox TV
 https://5926fc9c7c5b2.streamlock.net/9108/9108/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Radio_Pescara.png" group-title="Musica",Radio Pescara TV
 http://load-balancer.azotosolutions.com/cdnedge13/smil:live13.smil/playlist.m3u8
@@ -321,23 +321,23 @@ http://stream9.xdevel.com/video0s976463-1250/stream/playlist.m3u8
 http://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/TGR.png" group-title="Rai",TGR Puglia (Diretta)
 http://tgrpuglia-live.akamaized.net/hls/live/2025570/tgrpuglia/tgrpuglia/tgrpuglia_1300/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Vevo.png" group-title="Musica",Vevo '70s (AU)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Vevo.jpg" group-title="Musica",Vevo '70s (AU)
 http://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Vevo.png" group-title="Musica",Vevo '80s (AU)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Vevo.jpg" group-title="Musica",Vevo '80s (AU)
 http://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Vevo.png" group-title="Musica",Vevo '90s (NZ)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Vevo.jpg" group-title="Musica",Vevo '90s (NZ)
 http://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo90saunz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Vevo.png" group-title="Musica",Vevo 2K (AU)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Vevo.jpg" group-title="Musica",Vevo 2K (AU)
 http://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Vevo.png" group-title="Musica",Vevo Country (AU)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Vevo.jpg" group-title="Musica",Vevo Country (AU)
 http://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Vevo.png" group-title="Musica",Vevo Hip-Hop & R&B (US)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Vevo.jpg" group-title="Musica",Vevo Hip-Hop & R&B (US)
 https://t.freetv.fun/live/vevo-hip-hop-r-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Vevo.png" group-title="Musica",Vevo Pop (AU)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Vevo.jpg" group-title="Musica",Vevo Pop (AU)
 http://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Vevo.png" group-title="Musica",Vevo Pop (US)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Vevo.jpg" group-title="Musica",Vevo Pop (US)
 https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Vevo.png" group-title="Musica",Vevo Retro Rock (AU)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Vevo.jpg" group-title="Musica",Vevo Retro Rock (AU)
 http://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/XITE.png" group-title="Musica",XITE Hits (UK)
 http://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
@@ -399,9 +399,9 @@ http://nexoapp.d-dr.com/api/live/hollywood-stories/live.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://nexoapp.d-dr.com/api/live/aamod/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Plex_TV.png" group-title="Altro",Plex TV - Robot Wars by Mech+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Plex_TV.jpg" group-title="Altro",Plex TV - Robot Wars by Mech+
 https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-6470477fe536e0faaf10be9d.m3u8?X-Plex-Token=s96sC2Gf94KmQbuo7xpX|user-agent=okhttp/5.3.2
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Plex_TV.png" group-title="Sport",Plex TV - TNA Wrestling Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Plex_TV.jpg" group-title="Sport",Plex TV - TNA Wrestling Channel
 http://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/playlist/amg00966-anthem-tnawrestling-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/GF_Vip.png" group-title="Mediaset",GF Vip Regia 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
