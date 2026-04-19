@@ -126,7 +126,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7
 #EXTVLCOPT:http-user-agent=rainet/4.0.8
 #EXTINF:-1 tvg-id="Motor Trend.it" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Discovery_Turbo.png" group-title="Discovery",Discovery Turbo
 http://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8|user-agent=okhttp/5.3.2
-#EXTINF:-1 tvg-id="ITBA2200010O1" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Sportitalia.png" group-title="Sport",Sportitalia
+#EXTINF:-1 tvg-id="ITBA2200010O1" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Sportitalia.jpg" group-title="Sport",Sportitalia
 http://distribution.sportitalialive.it/sportitalia/sihd_abr2/playlist.m3u8
 #EXTINF:-1 tvg-id="IL61.it" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/IL61.png" group-title="Altro",IL61
 https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
@@ -229,7 +229,7 @@ http://www.dailymotion.com/cdn/live/video/x91c8ww.m3u8?sec=D9OwEfHs-e7O6pQ-qlnRO
 http://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Primavera_TV.jpeg" group-title="Sport",Primavera TV
 http://distribution.sportitalialive.it/sportitalia/silive24_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="ITBC4700002CO" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Sportitalia_Solo_Calcio.png" group-title="Sport",Sportitalia Solo Calcio
+#EXTINF:-1 tvg-id="ITBC4700002CO" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Sportitalia_Solo_Calcio.jpg" group-title="Sport",Sportitalia Solo Calcio
 http://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Uninettuno.png" group-title="Altro",UniNettuno University TV
 http://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
