@@ -1,0 +1,1570 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.1cloud.fm/favicon/apple-touch-icon.png" group-title="Radio italiane" tvg-country="CH" radio="true",1.FM - Italian Favorites
+#EXTVLCOPT:http-referrer=radio.1cloud.fm/station/italiaonair
+http://strm112.1.fm/italiaonair_mobile_mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://radiosuitenetwork.torontocast.stream/wp-content/uploads/2021/09/600.png" group-title="Radio italiane" tvg-country="CA" radio="true",70 80 90 Italia d'autore
+#EXTVLCOPT:http-referrer=radiosuitenetwork.torontocast.stream/70-80-90-italia-dautore
+http://maggie.torontocast.com:8118/stream
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.aci.it/cdn/bootstrap-aci/latest/assets/img/aci-radio/apple-touch-icon.png" group-title="Radio italiane" tvg-country="IT" radio="true",ACI Radio
+#EXTVLCOPT:http-referrer=aciradio.it
+https://nr7.newradio.it:18003/stream
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/79939.v12.png" group-title="Radio italiane" tvg-country="IT" radio="true",Cafe Roma Lounge
+#EXTVLCOPT:http-referrer=info201774.wixsite.com/caferomalounge
+http://stream.laut.fm/cafe-roma-lounge
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/885/chill-out-zone-italy.9f4e3a1b.png" group-title="Radio italiane" tvg-country="IT" radio="true",Chill Out Zone Italy
+#EXTVLCOPT:http-referrer=chilloutzoneitaly.weebly.com
+http://chilloutzone.stream.laut.fm/chilloutzone
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fczVd50.png" group-title="Radio italiane" tvg-country="IT" radio="true",Ciccio Riccio
+#EXTVLCOPT:http-referrer=www.ciccioriccio.it
+http://stream5.xdevel.com/audio0s975942-758/stream/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://classichits.radio/wp-content/uploads/2022/10/classichitsit-370x370.png" group-title="Radio italiane" tvg-country="IT" radio="true",Classic Hits anni 70 80 90
+#EXTVLCOPT:http-referrer=classichits.radio
+http://classichitsradio.streamingmedia.it/play
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3lZGao9.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Controradio Bari
+#EXTVLCOPT:http-referrer=www.controradiobari.it
+http://antares.dribbcast.com:2199/proxy/controradio/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/97230.v1.png" group-title="Radio italiane" tvg-country="IT" radio="true",Dance 80
+#EXTVLCOPT:http-referrer=www.dance80.com
+http://www.shoutcastitalia.com/proxy/dance80
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.discoradio.it/wp-content/uploads/2018/10/cropped-logoDR@2x-192x192.png" group-title="Radio italiane" tvg-country="IT" radio="true",Disco Radio
+#EXTVLCOPT:http-referrer=www.discoradio.it
+http://stream.discoradio.radio/audio/disco.stream_aac64/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/132443.v3.png" group-title="Radio italiane" tvg-country="IT" radio="true",Electro Lounge
+#EXTVLCOPT:http-referrer=www.electrolounge.eu
+http://electrolounge.stream.laut.fm/electrolounge?pl=m3u
+#EXTINF:-1 tvg-id="" tvg-logo="https://fmcube.net/images/fmcube-logo-05x.png" group-title="Radio italiane" tvg-country="US" radio="true",FM Cube - Radio Adriano Celentano
+#EXTVLCOPT:http-referrer=fmcube.net/radio/adriano-celentano
+http://stream.pcradio.ru/Chelentano-hi
+#EXTINF:-1 tvg-id="" tvg-logo="https://funky.radio/wp-content/uploads/2020/10/funkyradio-LOGO512-300x300.jpg" group-title="Radio italiane" tvg-country="IT" radio="true",Funky Radio
+#EXTVLCOPT:http-referrer=funky.radio
+http://funkyradio.streamingmedia.it/play.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://giornaleradio.fm/wp-content/uploads/2023/03/cropped-giornale-radio-logo-2-192x192.png" group-title="Radio italiane" tvg-country="IT" radio="true",Giornale Radio
+#EXTVLCOPT:http-referrer=giornaleradio.fm
+http://gr.fluidstream.eu/gr1.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZKV1wgd.png" group-title="Radio italiane" tvg-country="IT" radio="true",Globo Vintage
+#EXTVLCOPT:http-referrer=www.globovintage.it
+http://vintage.newradio.it/m100-64
+#EXTINF:-1 tvg-id="" tvg-logo="https://giornaleradio.fm/wp-content/uploads/2023/10/gr-370x370.png" group-title="Radio italiane" tvg-country="IT" radio="true",GR news
+#EXTVLCOPT:http-referrer=giornaleradio.fm
+http://gr.fluidstream.eu/gr2.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/20557.v9.png" group-title="Radio italiane" tvg-country="IT" radio="true",Italia Dance Music Radio
+#EXTVLCOPT:http-referrer=www.italiadancemusic.com/it
+https://sr2.inmystream.it:18032/stream2
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/59318.v5.png" group-title="Radio italiane" tvg-country="IT" radio="true",Italian Dance Network
+#EXTVLCOPT:http-referrer=www.italiandancenetwork.com
+http://italiandancenetwork.com:8000/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.mytuner.mobi/media/tvos_radios/Mz6B5mYMMT.png" group-title="Radio italiane" tvg-country="IT" radio="true",LatteMiele
+#EXTVLCOPT:http-referrer=www.lattemiele.com/web-radio-lattemiele-streaming
+http://sr15.inmystream.it:8000/stream
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xoQE0nY.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",LolliRadio Italia
+#EXTVLCOPT:http-referrer=www.lolliradio.net/italia
+http://stream.lolliradio.net/lolli_italia.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lovefm.it/themes/default/assets/img_c/logo-love-new.png" group-title="Radio italiane" tvg-country="IT" radio="true",Love FM
+#EXTVLCOPT:http-referrer=www.lovefm.it
+http://rh.fluidstream.eu/lovefm.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lovefm.it/themes/default/assets/img_c/digital_radio/love-fm-boutique.png" group-title="Radio italiane" tvg-country="IT" radio="true",Love FM Boutique
+#EXTVLCOPT:http-referrer=www.lovefm.it
+http://rh1.fluidstream.eu/love_boutique.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lovefm.it/themes/default/assets/img_c/digital_radio/love-fm-gourmet.png" group-title="Radio italiane" tvg-country="IT" radio="true",Love FM Gourmet
+#EXTVLCOPT:http-referrer=www.lovefm.it
+http://rh1.fluidstream.eu/love_gourmet.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lovefm.it/themes/default/assets/img_c/digital_radio/love-fm-vintage.png" group-title="Radio italiane" tvg-country="IT" radio="true",Love FM Vintage
+#EXTVLCOPT:http-referrer=www.lovefm.it
+http://rh1.fluidstream.eu/love_vintage.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://newhits.radio/wp-content/uploads/2025/12/newhits.radio_logo512-300x300.png" group-title="Radio italiane" tvg-country="IT" radio="true",New Hits Radio
+#EXTVLCOPT:http-referrer=newhits.radio
+http://newhitsradio.streamingmedia.it/play
+#EXTINF:-1 tvg-id="" tvg-logo="https://onedance.fm/img/Logo_RadioOneDance.png" group-title="Radio italiane" tvg-country="IT" radio="true",One Dance Ticino
+#EXTVLCOPT:http-referrer=onedance.fm
+http://ice04.fluidstream.net/rn1_2.aac
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lgEbPrd.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Power 927
+#EXTVLCOPT:http-referrer=onlineradiobox.com/it/milano1602
+http://91.121.104.139:1602/
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/INLImX8.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",R101
+#EXTVLCOPT:http-referrer=www.r101.it
+http://icecast.unitedradio.it/r101
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/INLImX8.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",R101 - 2K
+#EXTVLCOPT:http-referrer=www.r101.it
+http://icy.unitedradio.it/R1012000.aac
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/INLImX8.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",R101 - 70
+#EXTVLCOPT:http-referrer=www.r101.it
+http://icy.unitedradio.it/R10170.aac
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/INLImX8.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",R101 - 80
+#EXTVLCOPT:http-referrer=www.r101.it
+http://icy.unitedradio.it/R10180.aac
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/INLImX8.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",R101 - 90
+#EXTVLCOPT:http-referrer=www.r101.it
+http://icy.unitedradio.it/R10190.aac
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/INLImX8.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",R101 - Baila Baila
+#EXTVLCOPT:http-referrer=www.r101.it
+http://icy.unitedradio.it/R101NewMusicFriday.aac
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/INLImX8.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",R101 - Enjoy the Music
+#EXTVLCOPT:http-referrer=www.r101.it
+http://icy.unitedradio.it/101Legend.aac
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/INLImX8.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",R101 - La Banda di R101
+#EXTVLCOPT:http-referrer=www.r101.it
+http://icy.unitedradio.it/R101LaBanda.aac
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/INLImX8.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",R101 - Made in Italy
+#EXTVLCOPT:http-referrer=www.r101.it
+http://icy.unitedradio.it/R101MadeInItaly.aac
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/INLImX8.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",R101 - Today's Hits
+#EXTVLCOPT:http-referrer=www.r101.it
+http://icy.unitedradio.it/101SpecialArtist.aac
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/INLImX8.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",R101 - Urban Night
+#EXTVLCOPT:http-referrer=www.r101.it
+http://icy.unitedradio.it/101UrbanNight.aac
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/INLImX8.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",R101 - Your Love
+#EXTVLCOPT:http-referrer=www.r101.it
+http://icy.unitedradio.it/R101YourLove.aac
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.it/300/607080.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio 60 70 80
+#EXTVLCOPT:http-referrer=www.607080.it
+http://ice.studiopiu.net/607080.aac
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio708090.it/wp-content/uploads/2021/10/708090-160.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio 70 80 90
+#EXTVLCOPT:http-referrer=www.radio708090.it
+http://rblive.it:8170/radio.aac
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/dfjrZhF.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Radio 105
+#EXTVLCOPT:http-referrer=www.105.net
+http://icy.unitedradio.it/Radio105.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/E9nQcqo.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio 105 - 2k & More!
+#EXTVLCOPT:http-referrer=www.105.net/sezioni/754/105-2k-more
+http://icy.unitedradio.it/1052kandMore.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KLm1xup.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio 105 - Classics
+#EXTVLCOPT:http-referrer=www.105.net/sezioni/755/105-classics
+http://icy.unitedradio.it/105Classics.aac
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/88uJgoT.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio 105 - Dance 90
+#EXTVLCOPT:http-referrer=www.105.net/sezioni/1281/105-dance-90
+http://icy.unitedradio.it/105Dance90.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/H9aTGJY.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio 105 - Hip Hop & RNB
+#EXTVLCOPT:http-referrer=www.105.net/sezioni/742/105-hiphop-rnb
+http://icy.unitedradio.it/105HipHopRnB.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tuBu7rf.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio 105 - Hits
+#EXTVLCOPT:http-referrer=www.105.net/sezioni/741/105-hits
+http://icy.unitedradio.it/105Hits.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QrG98dJ.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio 105 - InDaKlubb
+#EXTVLCOPT:http-referrer=www.105.net/sezioni/743/105-indaklubb
+http://icy.unitedradio.it/105InDaKlubb.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5CZOuoU.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Radio 105 - Mamacita
+#EXTVLCOPT:http-referrer=www.105.net/sezioni/12075/105-mamacita
+http://icy.unitedradio.it/105_522.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rFG03Bd.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio 105 - Miami
+#EXTVLCOPT:http-referrer=www.105.net/sezioni/748/105-miami
+http://icy.unitedradio.it/105Miami.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/klhP3si.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio 105 - Nameless
+#EXTVLCOPT:http-referrer=www.105.net/sezioni/12297/105-nameless
+http://icy.unitedradio.it/105_523.aac
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ip3d6W5.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio 105 - Rap Italia
+#EXTVLCOPT:http-referrer=www.105.net/sezioni/1082/105-rap-italia
+http://icy.unitedradio.it/105RapItalia.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bD9iH1W.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio 105 - Story
+#EXTVLCOPT:http-referrer=www.105.net/sezioni/739/105-story
+http://icy.unitedradio.it/105Story.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PzyYqrH.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio 105 - Zoo Radio
+#EXTVLCOPT:http-referrer=zoo.105.net/sezioni/745/zoo-radio
+http://icy.unitedradio.it/105Zoo.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZjnX9ns.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio 105 - Music Star Coldplay
+#EXTVLCOPT:http-referrer=www.105.net/sezioni/735/music-star-coldplay
+http://icy.unitedradio.it/ColdPlay.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4M0b4oZ.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio 105 - Music Star Elisa
+#EXTVLCOPT:http-referrer=www.105.net/sezioni/1833/music-star-elisa
+http://icy.unitedradio.it/Elisa.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HEkpKnQ.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio 105 - Music Star Jovanotti
+#EXTVLCOPT:http-referrer=www.105.net/sezioni/736/music-star-jovanotti
+http://icy.unitedradio.it/Jovanotti.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UyflY4b.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio 105 - Music Star Ligabue
+#EXTVLCOPT:http-referrer=www.105.net/sezioni/738/music-star-ligabue
+http://icy.unitedradio.it/Ligabue.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/br1Cqvy.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio 105 - Music Star Michael Jackson
+#EXTVLCOPT:http-referrer=www.105.net/sezioni/2032/music-star-michael-jackson
+http://icy.unitedradio.it/um2908.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fgddp4x.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio 105 - Music Star Vasco
+#EXTVLCOPT:http-referrer=www.105.net/sezioni/746/music-star-vasco
+http://icy.unitedradio.it/Vasco.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.radio24.ilsole24ore.com/whitelabel/group-2420101401040528/img/apple-touch-icon.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio 24
+#EXTVLCOPT:http-referrer=www.radio24.ilsole24ore.com
+http://ilsole24ore-radio.akamaized.net/hls/live/2035301/radio24/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio80.it/wp-content/uploads/2025/06/cropped-radio-80-sito-192x192.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio 80
+#EXTVLCOPT:http-referrer=www.radio80.it
+http://sphera.fluidstream.eu/radio80.aac
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/6updQNZhSq.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Bari
+#EXTVLCOPT:http-referrer=www.radiobari.net
+http://s6.mediastreaming.it:9062/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bellaemonella.it/wp-content/uploads/2025/07/bm-nero-512-300x300.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Bellla & Monella
+#EXTVLCOPT:http-referrer=www.belllaemonella.it
+http://klasse1.fluidstream.eu/bella
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7zIUMvY.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Bianconera
+#EXTVLCOPT:http-referrer=www.radiobianconera.com
+http://stream.tmwradio.com/bianconera.aac
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.birikina.it/wp-content/uploads/2020/02/radio-birikina-logo.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Birikina
+#EXTVLCOPT:http-referrer=www.birikina.it
+http://klasse1.fluidstream.eu/birikina
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radiobruno.it/wp-content/uploads/2023/10/cropped-logo-radiobruno-favicon-512-512-192x192.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Bruno
+#EXTVLCOPT:http-referrer=www.radiobruno.it/ascolta-la-radio
+http://router.xdevel.com/audio4s975355-254/stream/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radiobruno.it/wp-content/uploads/2025/01/RadioBrunoMadeInItaly-1106x1106-1.jpg" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Bruno - Made in Italy
+#EXTVLCOPT:http-referrer=www.radiobruno.it/web-radio/radio-bruno-made-in-italy
+http://stream2.xdevel.com/audio1s975355-54/stream/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radiobruno.it/wp-content/uploads/2019/11/GOLD.jpg" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Bruno - Gold Music
+#EXTVLCOPT:http-referrer=www.radiobruno.it/web-radio/radio-bruno-gold-music
+http://stream2.xdevel.com/audio2s975355-55/stream/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radiobruno.it/wp-content/uploads/2019/11/TOP40.jpg" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Bruno - Top 40
+#EXTVLCOPT:http-referrer=www.radiobruno.it/web-radio/radio-bruno-top-40
+http://stream2.xdevel.com/audio0s975355-53/stream/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radiobruno.it/wp-content/uploads/2021/07/radio-rock.jpg" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Bruno - Rock Station
+#EXTVLCOPT:http-referrer=www.radiobruno.it/web-radio/radio-bruno-rock-station
+http://stream5.xdevel.com/audio2s975906-622/stream/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yqrsAUD.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Capital
+#EXTVLCOPT:http-referrer=www.capital.it
+http://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/master_ma.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yqrsAUD.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Capital - Classic Rock
+#EXTVLCOPT:http-referrer=www.capital.it/webradio/02
+http://streamcdnm8-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalclassicrock/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yqrsAUD.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Capital - Funky Town
+#EXTVLCOPT:http-referrer=www.capital.it/webradio/03
+http://streamcdnm11-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapitalfunkytown/radiocapitalfunkytown/play1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yqrsAUD.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Capital - Music
+#EXTVLCOPT:http-referrer=www.capital.it/webradio/01
+http://streamcdnm8-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalmusic/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yqrsAUD.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Capital - W L'Italia
+#EXTVLCOPT:http-referrer=www.capital.it/webradio/04
+http://streamcdnm6-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalwitalia/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yqrsAUD.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Capital - Yacht Rock
+#EXTVLCOPT:http-referrer=www.capital.it/webradio/05
+http://streamcdnm3-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalsoft/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/QpUbYQknbu.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Cecchetto
+#EXTVLCOPT:http-referrer=www.radiocecchetto.it
+http://eu10.fastcast4u.com:3420/;
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sGTknwW.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Cusano Campus
+#EXTVLCOPT:http-referrer=onlineradiobox.com/it/cusanocampus
+http://stream5.xdevel.com/audio1s975363-1686/stream/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radiodancefloor.it/wp-content/uploads/2017/01/RDF_LOGO_2015_RED_600.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Dancefloor 90s
+#EXTVLCOPT:http-referrer=www.radiodancefloor.it
+http://audio.radiodancefloor.it/dancefloor.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/OfdczY9.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Deejay
+#EXTVLCOPT:http-referrer=www.deejay.it
+http://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/play1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.gelestatic.it/deejay/sites/2/2015/05/webradio_30_songs.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Deejay 30 Songs
+#EXTVLCOPT:http-referrer=www.deejay.it/webradio/06
+http://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay30songs/radiodeejay30songs/play1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.gelestatic.it/deejay/sites/2/2015/05/webradio_one_two.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Deejay One Two One Two
+#EXTVLCOPT:http-referrer=www.deejay.it/webradio/04
+http://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejayonetwoonetwo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.gelestatic.it/deejay/sites/2/2015/05/webradio_deejay_suona_italia.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Deejay Suona Italia
+#EXTVLCOPT:http-referrer=www.deejay.it/webradio/07
+http://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaysuonaitalia/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.gelestatic.it/deejay/sites/2/2017/07/deejay_80.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Deejay 80
+#EXTVLCOPT:http-referrer=www.deejay.it/webradio/01
+http://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejay80/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.gelestatic.it/deejay/sites/2/2015/05/webradio_deejay_time.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Deejay Time
+#EXTVLCOPT:http-referrer=www.deejay.it/webradio/02
+http://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaytime/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.gelestatic.it/deejay/sites/2/2016/02/webradio_deejay_one_love.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Deejay One Love
+#EXTVLCOPT:http-referrer=www.deejay.it/webradio/10
+http://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejayonelove/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.gelestatic.it/deejay/sites/2/2015/05/webradio_tropical.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Deejay Tropical Pizza
+#EXTVLCOPT:http-referrer=www.deejay.it/webradio/03
+http://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaytropicalpizza/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.gelestatic.it/deejay/sites/2/2016/03/webradio_deejay_gasolina.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Deejay Gasolina
+#EXTVLCOPT:http-referrer=www.deejay.it/webradio/08
+http://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaygasolina/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.gelestatic.it/deejay/sites/2/2019/04/linetti.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Linetti
+#EXTVLCOPT:http-referrer=www.deejay.it/webradio/05
+http://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaywfmlinus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.gelestatic.it/deejay/sites/2/2015/05/webradio_deejay_on_the_road.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Deejay On the Road
+#EXTVLCOPT:http-referrer=www.deejay.it/webradio/09
+http://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejayontheroad/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BeyiGIM.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Dimensione Relax
+#EXTVLCOPT:http-referrer=rdastation.it
+http://az1.mediacp.eu/listen/radiodimensionerelax/radio.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radioeasyrock.it/wp-content/uploads/2025/07/radio-easy-rock-icona-300x300.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Easy Rock
+#EXTVLCOPT:http-referrer=www.radioeasyrock.it
+http://sphera.fluidstream.eu/easyrock.aac
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radioenjoyfm.it/logoweb.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Enjoy Puglia
+#EXTVLCOPT:http-referrer=www.radioenjoyfm.it
+http://s1.forstream.it:8030/enjoyHQ
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radioennysound.com/wp-content/uploads/2021/03/cropped-icona-192x192.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Enny Sound
+#EXTVLCOPT:http-referrer=www.radioennysound.com
+https://nr14.newradio.it:8928/stream
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.esercito.difesa.it/assets/favicon/android-chrome-192x192.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Esercito
+#EXTVLCOPT:http-referrer=www.esercito.difesa.it/Radio-Esercito
+http://radio.esercito.difesa.it:8000/stream
+#EXTINF:-1 tvg-id="" tvg-logo="https://forever80.altervista.org/wp-content/uploads/2024/05/FOREVER-70-DANCE-POP-512-png-1.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Forever 70
+#EXTVLCOPT:http-referrer=forever80.altervista.org
+http://forever70.stream.laut.fm/forever70
+#EXTINF:-1 tvg-id="" tvg-logo="https://forever80.altervista.org/wp-content/uploads/2024/05/forever-80-512.jpg" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Forever 80
+#EXTVLCOPT:http-referrer=forever80.altervista.org
+http://forever80.stream.laut.fm/forever80
+#EXTINF:-1 tvg-id="" tvg-logo="https://forever80.altervista.org/wp-content/uploads/2024/05/FOREVER80POP-512-png.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Forever 80-Pop
+#EXTVLCOPT:http-referrer=forever80.altervista.org
+http://forever80-pop.stream.laut.fm/forever80-pop
+#EXTINF:-1 tvg-id="" tvg-logo="https://forever80.altervista.org/wp-content/uploads/2024/05/FOREVER-90-512-png.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Forever 90
+#EXTVLCOPT:http-referrer=forever80.altervista.org
+http://forever90.stream.laut.fm/forever90
+#EXTINF:-1 tvg-id="" tvg-logo="https://forever80.altervista.org/wp-content/uploads/2024/05/FOREVER-90-DANCE-STREETBEAT.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Forever 90-Dance StreetBeat
+#EXTVLCOPT:http-referrer=forever80.altervista.org
+http://streetbeat.stream.laut.fm/streetbeat
+#EXTINF:-1 tvg-id="" tvg-logo="https://forever80.altervista.org/wp-content/uploads/2024/05/forever-rock-sito-512-png.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Forever Rock
+#EXTVLCOPT:http-referrer=forever80.altervista.org
+http://foreverrock.stream.laut.fm/foreverrock
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uXMIF1F.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Fuc*ing Metal
+#EXTVLCOPT:http-referrer=tinyurl.com/rdfckm
+http://tinyurl.com/rfckm
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iK8Gl6l.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Gamma
+#EXTVLCOPT:http-referrer=www.radio-gamma.it
+http://onair18.xdevel.com:8098/
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.radiohappydays.it/images/logo_happydays.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Happy Days
+#EXTVLCOPT:http-referrer=www.radiohappydays.it
+http://stream.rcast.net/61310
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radiohybrid.net/wp-content/uploads/2020/07/radio-hybrid-dimm-300x300.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Hybrid
+#EXTVLCOPT:http-referrer=www.radiohybrid.net
+http://nr9.newradio.it/stream/content/
+#EXTINF:-1 tvg-id="" tvg-logo="http://radioibiza.it/wp-content/uploads/2021/07/cropped-favicon-ibiza-192x192.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Ibiza
+#EXTVLCOPT:http-referrer=radioibiza.it/diretta-radio-ibiza
+http://kisskiss.fluidstream.eu/ibiza.aac
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qXIQxAM.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Italia Anni 60
+#EXTVLCOPT:http-referrer=www.radioitaliaannisessanta.it
+http://ice12.fluidstream.net/ria60_me.aac
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qXIQxAM.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Italia Anni 60 - Puglia & Basilicata
+#EXTVLCOPT:http-referrer=www.radioitaliaannisessanta.it
+https://ice12.fluidstream.net/ria60_ba.aac
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radioitalia.it/images/logo-radioitalia.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Italia
+#EXTVLCOPT:http-referrer=www.radioitalia.it
+http://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/stream01/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giornaleradio.fm/wp-content/uploads/2025/03/Logo-RIN-1200x1200-px-370x370-1-1-100x100.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Italia Network
+#EXTVLCOPT:http-referrer=giornaleradio.fm
+http://gr.fluidstream.eu/gr7.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radioitalia.it/images/player_radioitalia_sanremo.jpg" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Italia Sanremo
+#EXTVLCOPT:http-referrer=www.radioitalia.it
+http://stream4.xdevel.com/audio2s976608-1381/stream/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radioitalia.it/images/logo-webradio-trend.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Italia Trend
+#EXTVLCOPT:http-referrer=www.radioitalia.it
+http://stream4.xdevel.com/audio0s976608-1379/stream/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://radiojukebox.info/wp-content/uploads/2019/11/cropped-favicon-radio-jukebox-192x192.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio JukeBox
+#EXTVLCOPT:http-referrer=radiojukebox.info
+http://stream4.xdevel.com/audio0s975889-474/stream/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="http://kisskiss.it/wp-content/uploads/2022/07/cropped-favicon-new-kisskiss-192x192.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Kiss Kiss
+#EXTVLCOPT:http-referrer=kisskiss.it
+http://ice08k.fluidstream.net/KissKiss.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://kisskiss.it/wp-content/uploads/elementor/thumbs/1-pn2hgaj7ecpo5kexod9mlus3o52ps98q48b1bqzpd8.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Kiss Kiss +1
+#EXTVLCOPT:http-referrer=kisskiss.it/webradio/kiss-kiss-1
+http://kk.fluidstream.eu/KissKiss1.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://kisskiss.it/wp-content/uploads/elementor/thumbs/discoparty-pn2hglt9od540vyjui55frxmsrj4cmhi5s4v32izak.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Kiss Kiss Disco Party
+#EXTVLCOPT:http-referrer=kisskiss.it/webradio/kiss-kiss-disco-party
+http://kk.fluidstream.eu/kk_discoparty.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://kisskiss.it/wp-content/uploads/elementor/thumbs/goldrock-pn2hgy1657lu7tgsv5fau6umiruw4ou0jgm6bo0v1o.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Kiss Kiss Gold Rock
+#EXTVLCOPT:http-referrer=kisskiss.it/webradio/kiss-kiss-gold-rock
+http://kk.fluidstream.eu/kk_rock.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://kisskiss.it/wp-content/uploads/elementor/thumbs/historykiss-pn2hh9b8f81a350f1aato405nebap22sl0g02zk4z0.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Kiss Kiss History Kiss
+#EXTVLCOPT:http-referrer=kisskiss.it/webradio/kiss-kiss-history-kiss
+http://ice08.fluidstream.net/kk_history.aac
+#EXTINF:-1 tvg-id="" tvg-logo="https://kisskiss.it/wp-content/uploads/elementor/thumbs/hit-pn2hhlj4w2i0a2io1xkz2ix5den2h4fayoxbbl20q4.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Kiss Kiss Hit
+#EXTVLCOPT:http-referrer=kisskiss.it/webradio/kiss-kiss-hits
+http://kk.fluidstream.eu/kk_hits.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://kisskissitalia.it/wp-content/uploads/2021/07/cropped-favicon-kisskissitalia-192x192.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Kiss Kiss Italia
+#EXTVLCOPT:http-referrer=kisskissitalia.it/diretta-kisskiss-italia
+http://kisskiss.fluidstream.eu/KKItalia.aac
+#EXTINF:-1 tvg-id="" tvg-logo="https://kisskiss.it/wp-content/uploads/elementor/thumbs/lanottevola-pn2hhxr1cwyqh00x2kv4gxu53eyu96rtcdemk6jwh8.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Kiss Kiss La notte vola
+#EXTVLCOPT:http-referrer=kisskiss.it/webradio/web-radio-kisskiss-la-notte-vola
+http://kk.fluidstream.eu/kk_notte.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://kisskiss.it/wp-content/uploads/elementor/thumbs/latina-pn2hi913mxe6cbkj8pqnauzo81f8tk0ldx8gbi36ek.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Kiss Kiss Latina
+#EXTVLCOPT:http-referrer=kisskiss.it/webradio/kiss-kiss-latina
+http://kk.fluidstream.eu/kk_latina.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://kisskiss.it/wp-content/uploads/elementor/thumbs/lounge-qriy5usjya3gpaotgnknoqck1tj0neboxqpr5ex9nw.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Kiss Kiss Lounge
+#EXTVLCOPT:http-referrer=kisskiss.it/webradio/la-web-radio-kiss-kiss-history-lounge
+http://kk.fluidstream.eu/kk_history_lounge.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://kisskiss.it/wp-content/uploads/elementor/thumbs/sanvalentino-pn2hiwj2dsacekmefhwbj7272o7f5zlvt5jlbf4c30.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Kiss Kiss San Valentino
+#EXTVLCOPT:http-referrer=kisskiss.it/webradio/kiss-kiss-san-valentino
+http://kk.fluidstream.eu/kk_sanvalentino.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://kisskiss.it/wp-content/uploads/elementor/thumbs/sanremo-pn2hil903ruwj92s9d0sp9wny1r0lmd3rlprk3l25o.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Kiss Kiss Sanremo
+#EXTVLCOPT:http-referrer=kisskiss.it/webradio/kiss-kiss-sanremo
+http://kk.fluidstream.eu/kk_sanremo.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://kisskiss.it/wp-content/uploads/elementor/thumbs/kisskiss_soft-1-py8m7qnjes6m4vfg6mwe0koaferzjp05rssp06r3n0.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Kiss Kiss Soft
+#EXTVLCOPT:http-referrer=kisskiss.it/webradio/la-web-radio-kiss-kiss-soft
+http://kk.fluidstream.eu/kk_soft.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radiom100.it/icon/icon-192x192.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio M100
+#EXTVLCOPT:http-referrer=www.radiom100.it
+http://stream.laut.fm/radio-m100
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.gelestatic.it/m2o/sites/2/2022/01/cropped-M2O-LOGO-JPG-192x192.jpg" group-title="Radio italiane" tvg-country="IT" radio="true",Radio m2o
+#EXTVLCOPT:http-referrer=www.m2o.it
+http://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.gelestatic.it/m2o/sites/2/2022/01/cropped-M2O-LOGO-JPG-192x192.jpg" group-title="Radio italiane" tvg-country="IT" radio="true",Radio m2o Dance
+#EXTVLCOPT:http-referrer=www.m2o.it/webradio/m2o-dance
+http://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2odance/radiom2odance/master_ma.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/13807.v2.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Made in Italy
+#EXTVLCOPT:http-referrer=radiomadeinitaly.it/wordpress
+http://nr9.newradio.it:9244
+#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/www.mambo.it/wp-content/uploads/2019/01/cropped-logo_parada_new-min-1-e1709241887558.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Mambo
+#EXTVLCOPT:http-referrer=onlineradiobox.com/it/mambo
+http://mambo.newradio.it/stream
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/egfcxaezqnxk.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Manbassa
+#EXTVLCOPT:http-referrer=www.manbassa.fm
+http://91.121.90.186:8000/radiomanbassa
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/11758.v16.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Margherita
+#EXTVLCOPT:http-referrer=www.radiomargherita.com
+http://streaming.radiomargherita.com/stream/radiomargherita
+#EXTINF:-1 tvg-id="" tvg-logo="https://radiomaster.it/wp-content/uploads/2022/04/cropped-logo-master-192x192.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Master
+#EXTVLCOPT:http-referrer=radiomaster.it
+http://nr12.newradio.it:8702/stream
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yA8Eg72.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Radio MegaMix 80
+#EXTVLCOPT:http-referrer=www.megamix80.com
+http://centova.ipstream.it/proxy/megamix80/stream2
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/O4KtCFu.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Mi Piaci
+#EXTVLCOPT:http-referrer=www.facebook.com/RadioMiPiaci
+http://nr6.newradio.it:9182/;
+#EXTINF:-1 tvg-id="" tvg-logo="https://mitology.it/wp-content/uploads/2023/02/cropped-Favicon-192x192.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Mitology
+#EXTVLCOPT:http-referrer=mitology.it
+http://onair15.xdevel.com/proxy/radiocatsdogs2
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.radiospeaker.it/wp-content/uploads/2019/09/nuovo-logo-sito-radio-monte-carlo.jpg" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Monte Carlo
+#EXTVLCOPT:http-referrer=www.radiomontecarlo.net
+http://icy.unitedradio.it/RMC.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.radiospeaker.it/wp-content/uploads/2019/09/nuovo-logo-sito-radio-monte-carlo.jpg" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Monte Carlo 2
+#EXTVLCOPT:http-referrer=www.rmc2.net
+http://stream.rcs.revma.com/fxp289cp81uvv
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9I3fV5e.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Monte Carlo - 80
+#EXTVLCOPT:http-referrer=www.radiomontecarlo.net/sezioni/10484/rmc-80
+http://icy.unitedradio.it/rmcweb008
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GLwHnLy.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Monte Carlo - 90
+#EXTVLCOPT:http-referrer=www.radiomontecarlo.net/sezioni/10485/rmc-90
+http://icy.unitedradio.it/rmcweb009
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UuA9ZsO.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Monte Carlo - Acoustic
+#EXTVLCOPT:http-referrer=www.radiomontecarlo.net/sezioni/11911/radio-monte-carlo-acoustic
+http://icy.unitedradio.it/rmcweb016
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lyL1ZHK.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Monte Carlo - Bau & Co
+#EXTVLCOPT:http-referrer=ascoltareradio.com/radio-105-bau-co
+http://icy.unitedradio.it/RadioBAU.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zi0sFQ9.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Monte Carlo - BlueMoon
+#EXTVLCOPT:http-referrer=www.radiomontecarlo.net/sezioni/12222/radio-monte-carlo-bluemoon
+http://icy.unitedradio.it/rmcweb017
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/By7xPMA.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Monte Carlo - Buddha-Bar
+#EXTVLCOPT:http-referrer=www.radiomontecarlo.net/sezioni/11020/rmc-buddha-bar-monte-carlo-radio
+http://icy.unitedradio.it/rmcweb002
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HAVHLM0.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Monte Carlo - Cool
+#EXTVLCOPT:http-referrer=www.radiomontecarlo.net/sezioni/11960/rmc-cool
+http://icy.unitedradio.it/rmcweb004
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2kJd6kl.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Monte Carlo - Disco Funk
+#EXTVLCOPT:http-referrer=www.radiomontecarlo.net/sezioni/11979/radio-monte-carlo-disco-funk
+http://icy.unitedradio.it/rmcweb025
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mAIz11c.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Monte Carlo - Fitness
+#EXTVLCOPT:http-referrer=www.radiomontecarlo.net/sezioni/11949/gym-radio
+http://icy.unitedradio.it/rmcweb023
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fdQ4F8a.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Monte Carlo - Great Artists
+#EXTVLCOPT:http-referrer=www.radiomontecarlo.net/sezioni/10480/rmc-great-artists
+http://icy.unitedradio.it/rmcweb007
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/B9qSHey.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Monte Carlo - Hits
+#EXTVLCOPT:http-referrer=www.radiomontecarlo.net/sezioni/11238/rmc-hits
+http://icy.unitedradio.it/rmcweb001
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1qFUmmT.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Monte Carlo - Italia
+#EXTVLCOPT:http-referrer=www.radiomontecarlo.net/sezioni/10478/rmc-italia
+http://icy.unitedradio.it/rmcweb005
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EPQCSVD.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Monte Carlo - Jazz
+#EXTVLCOPT:http-referrer=www.radiomontecarlo.net/sezioni/12179/radio-monte-carlo-jazz
+http://icy.unitedradio.it/rmcweb019
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vXSYvZl.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Monte Carlo - Love Songs
+#EXTVLCOPT:http-referrer=www.radiomontecarlo.net/sezioni/10483/rmc-love-songs
+http://icy.unitedradio.it/rmcweb006
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GJ81TxL.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Monte Carlo - Marine
+#EXTVLCOPT:http-referrer=www.radiomontecarlo.net/sezioni/10486/rmc-marine
+http://icy.unitedradio.it/rmcweb010
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nX9buoV.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Monte Carlo - New Classics
+#EXTVLCOPT:http-referrer=www.radiomontecarlo.net/sezioni/10481/rmc-new-classics
+http://icy.unitedradio.it/rmcweb011
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bfxOCMb.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Monte Carlo - Nights Story
+#EXTVLCOPT:http-referrer=www.radiomontecarlo.net/sezioni/10479/monte-carlo-nights-story
+http://icy.unitedradio.it/rmcweb012
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Xve6uJ8.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Monte Carlo - Party
+#EXTVLCOPT:http-referrer=www.radiomontecarlo.net/sezioni/11923/rmc-party
+http://icy.unitedradio.it/rmcweb018
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HpKUEif.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Monte Carlo - Planet
+#EXTVLCOPT:http-referrer=www.radiomontecarlo.net/sezioni/12207/planet
+http://icy.unitedradio.it/rmcweb026
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/k3BBZuK.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Monte Carlo - Porto Carlo Riva
+#EXTVLCOPT:http-referrer=onlineradiobox.com/it/rmcmilanobeautyweek
+http://icy.unitedradio.it/rmcweb028.aac
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AFdX9OE.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Monte Carlo - R&B
+#EXTVLCOPT:http-referrer=www.radiomontecarlo.net/sezioni/12052/radio-monte-carlo-r-b
+http://icy.unitedradio.it/rmcweb003
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jK9k5BU.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Monte Carlo - Romantic Rock
+#EXTVLCOPT:http-referrer=www.radiomontecarlo.net/sezioni/11898/romantic-rock
+http://icy.unitedradio.it/rmcweb015
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9RRU9c0.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Monte Carlo - Running
+#EXTVLCOPT:http-referrer=www.radiomontecarlo.net/sezioni/11947/running-radio
+http://icy.unitedradio.it/rmcweb021
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ILgM3cV.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Monte Carlo - Summer
+#EXTVLCOPT:http-referrer=www.radiomontecarlo.net/sezioni/12211/radio-monte-carlo-summer
+http://icy.unitedradio.it/rmcweb024
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BR14dVn.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Monte Carlo - VIP Lounge
+#EXTVLCOPT:http-referrer=www.radiomontecarlo.net/sezioni/11926/rmc-vip-lounge
+http://icy.unitedradio.it/rmcweb020
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lpyYH3p.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Monte Carlo - Voyage Voyage
+#EXTVLCOPT:http-referrer=www.radiomontecarlo.net/sezioni/11978/radio-monte-carlo-voyage-voyage
+http://icy.unitedradio.it/rmcweb022
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CxoL08p.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Monte Carlo - Mina: Ieri Oggi e Domani
+#EXTVLCOPT:http-referrer=www.radiomontecarlo.net/sezioni/10488/mina-ieri-oggi-e-domani
+http://icy.unitedradio.it/rmcweb014
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mFPtLCS.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Monte Carlo - Music Star: Franco Battiato
+#EXTVLCOPT:http-referrer=www.radiomontecarlo.net/sezioni/12144/music-star-franco-battiato
+http://icy.unitedradio.it/um057.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JXAztfK.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Monte Carlo - Music Star: George Michael
+#EXTVLCOPT:http-referrer=www.radiomontecarlo.net/sezioni/11757/music-star-george-michael
+http://icy.unitedradio.it/MusicStarPrince.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LwEabtY.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Monte Carlo - Music Star: Giorgia
+#EXTVLCOPT:http-referrer=www.radiomontecarlo.net/sezioni/10490/music-star-giorgia
+http://icy.unitedradio.it/rmcweb013
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zN1OXCy.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Monte Carlo - Music Star: Pino Daniele
+#EXTVLCOPT:http-referrer=www.radiomontecarlo.net/sezioni/10487/music-star-pino-daniele
+http://icy.unitedradio.it/Daniele.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/S3XXAjs.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Monte Carlo - Music Star: Tiziano Ferro
+#EXTVLCOPT:http-referrer=www.radiomontecarlo.net/sezioni/10491/music-star-tiziano-ferro
+http://icy.unitedradio.it/Ferro.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MJkY1L4.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Monte Carlo - Music Star: Zucchero
+#EXTVLCOPT:http-referrer=www.radiomontecarlo.net/sezioni/10492/music-star-zucchero
+http://icy.unitedradio.it/Zucchero.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Radionorba_logo_2021.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Norba
+#EXTVLCOPT:http-referrer=radionorba.it
+http://stream3.xdevel.com/audio0s975885-1008/stream/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Radionorba_logo_2021.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Norba Amore
+#EXTVLCOPT:http-referrer=radionorba.it
+http://icy.unitedradio.it/RN02.aac
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Radionorba_logo_2021.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Norba Battiti
+#EXTVLCOPT:http-referrer=radionorba.it
+http://icy.unitedradio.it/RN03.aac
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Radionorba_logo_2021.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Norba Italiana
+#EXTVLCOPT:http-referrer=radionorba.it
+http://icy.unitedradio.it/RN01.aac
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Radionorba_logo_2021.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Norba Joy
+#EXTVLCOPT:http-referrer=radionorba.it
+http://icy.unitedradio.it/RN04.aac
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Radionorba_logo_2021.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Norba Music
+#EXTVLCOPT:http-referrer=radionorba.it
+http://stream1.xdevel.com/audio1s975885-1080/stream/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.piterpan.it/wp-content/uploads/2025/11/cropped-radio-piterpan-logo-goccia-192x192.jpg" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Piterpan
+#EXTVLCOPT:http-referrer=www.piterpan.it
+http://klasse1.fluidstream.eu/piterpan.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://giornaleradio.fm/wp-content/uploads/2025/03/rpok-100x100.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Podcast
+#EXTVLCOPT:http-referrer=giornaleradio.fm
+http://gr.fluidstream.eu/gr6.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/qxcqumfxewze.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio PoPizz
+#EXTVLCOPT:http-referrer=www.radiopopizz.it
+http://nr11.newradio.it:8116/;
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radiopopolare.it/wp-content/uploads/2019/10/cropped-favicon-e1579720182164-180x180.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Popolare
+#EXTVLCOPT:http-referrer=www.radiopopolare.it
+http://livex.radiopopolare.it/radiopop2
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radiopuglia.it/img/logo-header.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Puglia
+#EXTVLCOPT:http-referrer=radiopuglia.it
+http://ssl.audio1.meway.tv/proxy/radiopuglia?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/11773.v2.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Radicale
+#EXTVLCOPT:http-referrer=www.radioradicale.it
+http://live.radioradicale.it/live.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://radioromeoandjuliet.it/wp-content/uploads/fbrfg/apple-touch-icon.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Romeo & Juliet
+#EXTVLCOPT:http-referrer=radioromeoandjuliet.it
+http://onair7.xdevel.com/proxy/xautocloud_vovi_2030?mp=/;stream/
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.raiplaysound.it/cropgd/252x252/dl/img/2025/06/11/1749657133927_RADIO%20SAN%20MARINO-2048x2048.jpg" group-title="Radio italiane" tvg-country="SM" radio="true",Radio San Marino
+#EXTVLCOPT:http-referrer=www.raiplaysound.it/radiosanmarino
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=26534550&output=16|user-agent=rainet/4.0.8
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/GpjDtUZ.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Selene
+#EXTVLCOPT:http-referrer=www.radioselene.it
+http://audio1.meway.tv:8013/stream
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.radiosoundbari.com/wordpress/wp-content/uploads/2017/10/cropped-Senza-titolo-2-192x192.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Sound Bari
+#EXTVLCOPT:http-referrer=www.radiosoundbari.com/wordpress
+http://nr9.newradio.it/proxy/incentiv?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/12720.v5.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Sportiva
+#EXTVLCOPT:http-referrer=www.radiosportiva.com/streaming
+http://sportiva.inmystream.it/stream/sportiva
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/11776.v6.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Studio Più
+#EXTVLCOPT:http-referrer=onlineradiobox.com/it/studiopiu
+http://ice.studiopiu.net/rete.aac
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radiosubasio.it/wp-content/themes/radiosubasiov2/assets/images/logo-radio-subasio.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Subasio
+#EXTVLCOPT:http-referrer=www.radiosubasio.it
+http://icy.unitedradio.it/Subasio.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radiosubasio.it/wp-content/themes/radiosubasiov2/assets/images/logo-radio-subasio.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Subasio +
+#EXTVLCOPT:http-referrer=www.radiosubasio.it/player/#!/channel/1
+http://icy.unitedradio.it/SubasioPiu.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radiosubasio.it/wp-content/themes/radiosubasiov2/assets/images/logo-radio-subasio.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Subasio - Collection
+#EXTVLCOPT:http-referrer=www.radiosubasio.it/player/#!/channel/3
+http://icy.unitedradio.it/SubasioCollection.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radiosubasio.it/wp-content/themes/radiosubasiov2/assets/images/logo-radio-subasio.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Subasio - Per un'ora d'amore
+#EXTVLCOPT:http-referrer=www.radiosubasio.it/player/#!/channel/4
+http://icy.unitedradio.it/SubasioPerUnOraDAmore.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radiosubasio.it/wp-content/themes/radiosubasiov2/assets/images/logo-radio-subasio.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Suby
+#EXTVLCOPT:http-referrer=www.radiosubasio.it/player/#!/channel/2
+http://icy.unitedradio.it/Suby.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/q2Kc40d.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Unicam
+#EXTVLCOPT:http-referrer=radio.unicam.it
+http://onair22.xdevel.com/proxy/xautocloud_3bnw_771
+#EXTINF:-1 tvg-id="" tvg-logo="http://cloud.radiozeta.it/assets/www.radiozeta.it/1.1.61/img/logo/android-icon-192x192.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio Zeta
+#EXTVLCOPT:http-referrer=play.rtl.it/live/18/radio-zeta-radiovisione
+http://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/clhI2IJWRnn7/playlist_audio.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio.4all.it/new_index/wp-content/uploads/2025/01/cropped-icon-512-192x192.png" group-title="Radio italiane" tvg-country="IT" radio="true",Radio4All
+#EXTVLCOPT:http-referrer=radio.4all.it
+http://radio.wifi4all.it/rwifi4all
+#EXTINF:-1 tvg-id="" tvg-logo="http://radioanimati.it/wp-content/uploads/2018/07/logo_ra_google.png" group-title="Radio italiane" tvg-country="IT" radio="true",RadioAnimati
+#EXTVLCOPT:http-referrer=radioanimati.it
+http://stream.radioanimati.it:80/rasite
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RquKxIk.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Radiodrago
+#EXTVLCOPT:http-referrer=www.radiodrago.it
+http://ssl.audio1.meway.tv/proxy/radiodrago?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-logo="http://cloud.radiofreccia.it/radiofreccia/News/Writer/1000x1000/redazione-web-ubros.jpg" group-title="Radio italiane" tvg-country="IT" radio="true",Radiofreccia
+#EXTVLCOPT:http-referrer=play.rtl.it/live/17/radiofreccia-radiovisione
+http://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/D6MENOraq6Qy/playlist_audio.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L4FWN0p.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Rai Radio 1
+#EXTVLCOPT:http-referrer=www.raiplaysound.it/radio1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=162834&output=16|user-agent=rainet/4.0.8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L4FWN0p.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Rai Radio 2
+#EXTVLCOPT:http-referrer=www.raiplaysound.it/radio2
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=162063&output=16|user-agent=rainet/4.0.8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L4FWN0p.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Rai Radio 3
+#EXTVLCOPT:http-referrer=www.raiplaysound.it/radio3
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=162841&output=16|user-agent=rainet/4.0.8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L4FWN0p.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Rai IsoRadio
+#EXTVLCOPT:http-referrer=www.raiplaysound.it/isoradio
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=173875&output=16|user-agent=rainet/4.0.8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L4FWN0p.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",No Name Radio
+#EXTVLCOPT:http-referrer=www.raiplaysound.it/nonameradio
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=8842169&output=16|user-agent=rainet/4.0.8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L4FWN0p.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Rai Radio 1 Sport
+#EXTVLCOPT:http-referrer=www.raiplaysound.it/radio1sport
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=8842124&output=16|user-agent=rainet/4.0.8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L4FWN0p.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Rai Radio 3 Classica
+#EXTVLCOPT:http-referrer=www.raiplaysound.it/radio3classica
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=173832&output=16|user-agent=rainet/4.0.8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L4FWN0p.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Rai Radio GR Parlamento
+#EXTVLCOPT:http-referrer=www.raiplaysound.it/grparlamento
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=173879&output=16|user-agent=rainet/4.0.8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L4FWN0p.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Rai Radio Techetè
+#EXTVLCOPT:http-referrer=www.raiplaysound.it/radiotechete
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=174078&output=16|user-agent=rainet/4.0.8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L4FWN0p.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Rai Radio Kids
+#EXTVLCOPT:http-referrer=www.raiplaysound.it/radiokids
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=174086&output=16|user-agent=rainet/4.0.8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L4FWN0p.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Rai Radio Live Napoli
+#EXTVLCOPT:http-referrer=www.raiplaysound.it/radiolive
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=174083&output=16|user-agent=rainet/4.0.8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L4FWN0p.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Rai Radio Tutta Italiana
+#EXTVLCOPT:http-referrer=www.raiplaysound.it/radiotuttaitaliana
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=173799&output=16|user-agent=rainet/4.0.8
+#EXTINF:-1 tvg-id="" tvg-logo="http://media.rds.it/web/web-site/footer/logo-square.png" group-title="Radio italiane" tvg-country="IT" radio="true",RDS 100% Grandi Successi
+#EXTVLCOPT:http-referrer=www.rds.it
+http://icstream.rds.radio/rds
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.rds.it/next-web-radio/wp-content/uploads/fbrfg/apple-touch-icon.png" group-title="Radio italiane" tvg-country="IT" radio="true",RDS Next
+#EXTVLCOPT:http-referrer=www.rds.it/next-web-radio
+http://audionext.rds.radio/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UwzEgVN.png" group-title="Radio italiane" tvg-country="IT" radio="true",RDS Relax
+#EXTVLCOPT:http-referrer=rdsrelax.it
+http://icstream.rds.radio/rdsrelax
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dimensionesuonosoft.it/favicon-196x196.png" group-title="Radio italiane" tvg-country="IT" radio="true",RDS Soft
+#EXTVLCOPT:http-referrer=www.dimensionesuonosoft.it
+http://icstream.rds.radio/dssc
+#EXTINF:-1 tvg-id="" tvg-logo="http://ritmo80.it/wp-content/uploads/2021/06/cropped-ritmofavicon-250x250.png" group-title="Radio italiane" tvg-country="IT" radio="true",Ritmo 80
+#EXTVLCOPT:http-referrer=ritmo80.it
+http://ice02.fluidstream.net/ritmo80.aac
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Xadsitu.png" group-title="Radio italiane" tvg-country="IT" radio="true",Riviera Lounge Radio
+#EXTVLCOPT:http-referrer=laut.fm/riviera-lounge-radio
+http://stream.laut.fm/riviera-lounge-radio
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/2493.v3.png" group-title="Radio estere" tvg-country="CH" radio="true",RSI Rete 1
+#EXTVLCOPT:http-referrer=www.radio.it/s/rsireteuno
+http://stream.srg-ssr.ch/m/reteuno/mp3_128
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/2781.v4.png" group-title="Radio estere" tvg-country="CH" radio="true",RSI Rete 2
+#EXTVLCOPT:http-referrer=www.radio.it/s/rsiretedue
+http://stream.srg-ssr.ch/m/retedue/mp3_128
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/2579.v2.png" group-title="Radio estere" tvg-country="CH" radio="true",RSI Rete 3
+#EXTVLCOPT:http-referrer=www.radio.it/s/rsiretetre
+http://stream.srg-ssr.ch/m/retetre/mp3_128
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/H0OrIv5.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",RTL 102.5
+#EXTVLCOPT:http-referrer=play.rtl.it/live/1/radiovisione
+http://streamcdnr1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/WjpMtPyNjHwj/playlist_audio.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/H0OrIv5.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",RTL 102.5 Best
+#EXTVLCOPT:http-referrer=play.rtl.it/live/2/rtl-1025-best-tv
+http://streamcdnr2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/fYNIdrsfP3xC/playlist_audio.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/H0OrIv5.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",RTL 102.5 Bro&Sis
+#EXTVLCOPT:http-referrer=play.rtl.it/live/16/bro-and-sis-tv
+http://streamcdnr16-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/HZKHO8FO5MwA/playlist_audio.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/H0OrIv5.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",RTL 102.5 Caliente
+#EXTVLCOPT:http-referrer=play.rtl.it/live/44/rtl-1025-caliente-tv
+http://streamcdnr6-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/TxhFMf45Q7cw/playlist_audio.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/H0OrIv5.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",RTL 102.5 Disco
+#EXTVLCOPT:http-referrer=play.rtl.it/live/21/rtl-1025-doc-tv
+http://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/Sz3kCA55PrRh/playlist_audio.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/H0OrIv5.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",RTL 102.5 Traffic
+#EXTVLCOPT:http-referrer=play.rtl.it/live/35/rtl-1025-news-tv
+http://streamcdnr16-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/aJMOUBAFc2Bc/playlist_audio.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://studiodance.altervista.org/wp-content/uploads/2020/03/studio-dance-1.jpg" group-title="Radio italiane" tvg-country="IT" radio="true",Studio Dance
+#EXTVLCOPT:http-referrer=studiodance.altervista.org
+http://stream.laut.fm/studiodance
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/82129.v6.png" group-title="Radio italiane" tvg-country="IT" radio="true",United Music Italia 80
+#EXTVLCOPT:http-referrer=onlineradiobox.com/it/unitedmusicitalia80
+http://icy.unitedradio.it/um016.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://urbanradio.it/wp-content/uploads/2022/11/cropped-logo_acid-outline-icon-192x192.png" group-title="Radio italiane" tvg-country="IT" radio="true",Urban Radio
+#EXTVLCOPT:http-referrer=urbanradio.it/streaming
+https://nr3.newradio.it:18100/stream
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PPHbzMO.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Venice Classic Radio Auditorium
+#EXTVLCOPT:http-referrer=veniceclassicradio.eu
+http://de2.streamingpulse.com/stream/vcr
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ee9EdIS.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Venice Classic Radio Classica+
+#EXTVLCOPT:http-referrer=veniceclassicradio.eu
+http://de2.streamingpulse.com/stream/vcr2
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/rzuDQWz.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Virgin Radio
+#EXTVLCOPT:http-referrer=www.virginradio.it
+http://icecast.unitedradio.it/Virgin.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/rzuDQWz.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Virgin Radio Alternative Rock
+#EXTVLCOPT:http-referrer=www.virginradio.it/sezioni/1220/virgin-radio-rock-alternative
+http://icy.unitedradio.it/VirginRockAlternative.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/rzuDQWz.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Virgin Radio Classic Rock
+#EXTVLCOPT:http-referrer=www.virginradio.it/sezioni/1219/virgin-radio-rock-classic
+http://icy.unitedradio.it/VirginRockClassics.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/rzuDQWz.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Virgin Radio Hard Rock
+#EXTVLCOPT:http-referrer=www.virginradio.it/sezioni/1218/virgin-radio-hard-rock
+http://icy.unitedradio.it/VirginHardRock.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/rzuDQWz.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Virgin Radio Rock '70
+#EXTVLCOPT:http-referrer=www.virginradio.it/sezioni/1162/virgin-radio-rock-70
+http://icy.unitedradio.it/VirginRock70.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/rzuDQWz.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Virgin Radio Rock '80
+#EXTVLCOPT:http-referrer=www.virginradio.it/sezioni/1163/virgin-radio-rock-80
+http://icy.unitedradio.it/VirginRock80.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/rzuDQWz.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Virgin Radio Rock '90
+#EXTVLCOPT:http-referrer=www.virginradio.it/sezioni/1992/virgin-radio-rock-90
+http://icy.unitedradio.it/Virgin_03.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/rzuDQWz.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Virgin Radio Rock 2K
+#EXTVLCOPT:http-referrer=www.virginradio.it/sezioni/1986/virgin-radio-rock-2k
+http://icy.unitedradio.it/Virgin_02.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/rzuDQWz.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Virgin Radio Rock Ballads
+#EXTVLCOPT:http-referrer=www.virginradio.it/sezioni/2015/virgin-radio-rock-ballads
+http://icy.unitedradio.it/Virgin_06.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/rzuDQWz.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Virgin Radio Rock Hits
+#EXTVLCOPT:http-referrer=www.virginradio.it/sezioni/1239/virgin-radio-rock-hits
+http://icy.unitedradio.it/VirginRockHits.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/rzuDQWz.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Virgin Radio Rock Party
+#EXTVLCOPT:http-referrer=www.virginradio.it/sezioni/1240/virgin-radio-rock-party
+http://icy.unitedradio.it/VirginRockParty.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/rzuDQWz.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Virgin Radio Rockstar: AC/DC
+#EXTVLCOPT:http-referrer=www.virginradio.it/sezioni/12079/rockstar-ac-dc
+http://icy.unitedradio.it/um1026.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/rzuDQWz.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Virgin Radio Rockstar: Aerosmith
+#EXTVLCOPT:http-referrer=www.virginradio.it/sezioni/12081/rockstar-aerosmith
+http://icy.unitedradio.it/um1028.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/rzuDQWz.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Virgin Radio Rockstar: Bon Jovi
+#EXTVLCOPT:http-referrer=www.virginradio.it/sezioni/12080/rockstar-bon-jovi
+http://icy.unitedradio.it/um1027.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/rzuDQWz.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Virgin Radio Rockstar: Guns N' Roses
+#EXTVLCOPT:http-referrer=www.virginradio.it/sezioni/1824/music-star-guns-n-roses1824
+http://icy.unitedradio.it/um1029.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/rzuDQWz.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Virgin Radio Rockstar: Oasis
+#EXTVLCOPT:http-referrer=www.virginradio.it/sezioni/12082/rockstar-oasis
+http://icy.unitedradio.it/um1030.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/rzuDQWz.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Virgin Radio Rockstar: Pink Floyd
+#EXTVLCOPT:http-referrer=www.virginradio.it/sezioni/1926/music-star-roger-waters-pink-floyd
+http://icy.unitedradio.it/VirginRogerWaters.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/rzuDQWz.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Virgin Radio Rockstar: Queen
+#EXTVLCOPT:http-referrer=www.virginradio.it/sezioni/1981/music-star-queen
+http://icecast.unitedradio.it/Virgin_05.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/rzuDQWz.jpeg" group-title="Radio italiane" tvg-country="IT" radio="true",Virgin Radio Rockstar: Rolling Stones
+#EXTVLCOPT:http-referrer=www.virginradio.it/sezioni/1855/Music-Star-Rolling-Stones
+http://icy.unitedradio.it/VirginSpecialEvent.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/BS6uVMa.png" group-title="Radio estere" tvg-country="CH" radio="true",1.FM - 70s Best
+#EXTVLCOPT:http-referrer=radio.1cloud.fm/station/70s
+http://strm112.1.fm/70s_mobile_mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/BS6uVMa.png" group-title="Radio estere" tvg-country="CH" radio="true",1.FM - 80s Best
+#EXTVLCOPT:http-referrer=radio.1cloud.fm/station/magic80
+http://strm112.1.fm/magic80_mobile_mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/BS6uVMa.png" group-title="Radio estere" tvg-country="CH" radio="true",1.FM - 90s Best
+#EXTVLCOPT:http-referrer=radio.1cloud.fm/station/90s
+http://strm112.1.fm/90s_mobile_mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/BS6uVMa.png" group-title="Radio estere" tvg-country="CH" radio="true",1.FM - 2010s
+#EXTVLCOPT:http-referrer=radio.1cloud.fm/station/2010s
+http://strm112.1.fm/acpl_mobile_mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/BS6uVMa.png" group-title="Radio estere" tvg-country="CH" radio="true",1.FM - Ambient Psychill
+#EXTVLCOPT:http-referrer=radio.1cloud.fm/station/ambientpsy
+http://strm112.1.fm/ambientpsy_mobile_mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/BS6uVMa.png" group-title="Radio estere" tvg-country="CH" radio="true",1.FM - Cafe
+#EXTVLCOPT:http-referrer=radio.1cloud.fm/station/caferadio
+http://strm112.1.fm/70s_mobile_mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/BS6uVMa.png" group-title="Radio estere" tvg-country="CH" radio="true",1.FM - Calming Piano
+#EXTVLCOPT:http-referrer=radio.1cloud.fm/station/calmingpiano
+http://strm112.1.fm/gospel_mobile_mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/BS6uVMa.png" group-title="Radio estere" tvg-country="CH" radio="true",1.FM - Chillout Lounge
+#EXTVLCOPT:http-referrer=radio.1cloud.fm/station/chilloutlounge
+http://strmreg.1.fm/chilloutlounge_mobile_mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/BS6uVMa.png" group-title="Radio estere" tvg-country="CH" radio="true",1.FM - Comfort Pop
+#EXTVLCOPT:http-referrer=radio.1cloud.fm/station/comfortpop
+http://strm112.1.fm/top40ballads_mobile_mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/BS6uVMa.png" group-title="Radio estere" tvg-country="CH" radio="true",1.FM - Costa del Mar
+#EXTVLCOPT:http-referrer=radio.1cloud.fm/station/costadelmarchillout
+http://strm112.1.fm/costadelmarchillout_mobile_mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/BS6uVMa.png" group-title="Radio estere" tvg-country="CH" radio="true",1.FM - Country Range
+#EXTVLCOPT:http-referrer=radio.1cloud.fm/station/country
+http://strm112.1.fm/country_mobile_mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/BS6uVMa.png" group-title="Radio estere" tvg-country="CH" radio="true",1.FM - Deep House
+#EXTVLCOPT:http-referrer=radio.1cloud.fm/station/deephouse
+http://strm112.1.fm/deephouse_mobile_mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/BS6uVMa.png" group-title="Radio estere" tvg-country="CH" radio="true",1.FM - Gaia
+#EXTVLCOPT:http-referrer=radio.1cloud.fm/station/radiogaia
+http://strm112.1.fm/radiogaia_mobile_mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/BS6uVMa.png" group-title="Radio estere" tvg-country="CH" radio="true",1.FM - High Voltage
+#EXTVLCOPT:http-referrer=radio.1cloud.fm/station/highvoltage
+http://strm112.1.fm/highvoltage_mobile_mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/BS6uVMa.png" group-title="Radio estere" tvg-country="CH" radio="true",1.FM - Hot Country
+#EXTVLCOPT:http-referrer=radio.1cloud.fm/station/acountry
+http://strm112.1.fm/acountry_mobile_mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/BS6uVMa.png" group-title="Radio estere" tvg-country="CH" radio="true",1.FM - Lo-fi
+#EXTVLCOPT:http-referrer=radio.1cloud.fm/station/lofi
+http://strm112.1.fm/kidsfm_mobile_mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/BS6uVMa.png" group-title="Radio estere" tvg-country="CH" radio="true",1.FM - Oldies
+#EXTVLCOPT:http-referrer=radio.1cloud.fm/station/60s_70s
+http://strm112.1.fm/60s_70s_mobile_mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/BS6uVMa.png" group-title="Radio estere" tvg-country="CH" radio="true",1.FM - Rock Classics
+#EXTVLCOPT:http-referrer=radio.1cloud.fm/station/rockclassics
+http://strm112.1.fm/rockclassics_mobile_mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/BS6uVMa.png" group-title="Radio estere" tvg-country="CH" radio="true",1.FM - Spa
+#EXTVLCOPT:http-referrer=radio.1cloud.fm/station/spa
+http://strm112.1.fm/spa_mobile_mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/BS6uVMa.png" group-title="Radio estere" tvg-country="CH" radio="true",1.FM - Techno & Deep House
+#EXTVLCOPT:http-referrer=radio.1cloud.fm/station/deeptech
+http://strm112.1.fm/deeptech_mobile_mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/BS6uVMa.png" group-title="Radio estere" tvg-country="CH" radio="true",1.FM - Top 40
+#EXTVLCOPT:http-referrer=radio.1cloud.fm/station/top40
+http://strm112.1.fm/top40_mobile_mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/BS6uVMa.png" group-title="Radio estere" tvg-country="CH" radio="true",1.FM - Top Rap
+#EXTVLCOPT:http-referrer=radio.1cloud.fm/station/toprap
+http://strm112.1.fm/jamz_mobile_mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",80er
+#EXTVLCOPT:http-referrer=m1.fm/80er.php
+http://tuner.m1.fm/80er.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",80s80s
+#EXTVLCOPT:http-referrer=www.80s80s.de
+http://streams.80s80s.de/web/mp3-192/streams.80s80s.de/
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",80s80s Dark Wave
+#EXTVLCOPT:http-referrer=www.80s80s.de
+http://streams.80s80s.de/darkwave/mp3-192
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",80s80s Depeche Mode
+#EXTVLCOPT:http-referrer=www.80s80s.de
+http://streams.80s80s.de/dm/mp3-192/streams.80s80s.de/
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",80s80s Love
+#EXTVLCOPT:http-referrer=www.80s80s.de
+http://streams.80s80s.de/love/mp3-192/streams.80s80s.de/
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",80s80s Queen
+#EXTVLCOPT:http-referrer=www.80s80s.de
+http://streams.80s80s.de/queen/mp3-192/streams.80s80s.de/
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",80s80s Wave
+#EXTVLCOPT:http-referrer=www.80s80s.de
+http://streams.80s80s.de/wave/mp3-192/radio.de/
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",90s90s
+#EXTVLCOPT:http-referrer=www.90s90s.de
+http://streams.90s90s.de/pop/mp3-192/homepage/
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",90s90s Dance Radio
+#EXTVLCOPT:http-referrer=www.90s90s.de
+http://streams.90s90s.de/danceradio/mp3-192/homepage/
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",90s90s Millennium Radio
+#EXTVLCOPT:http-referrer=www.90s90s.de
+http://streams.90s90s.de/90s00s/mp3-192/homepage/
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bhSWAis.jpegg.png" group-title="Radio estere" tvg-country="CA" radio="true",100% Covers Lounge
+#EXTVLCOPT:http-referrer=radiosuitenetwork.torontocast.stream/100-covers-lounge
+http://az1.mediacp.eu/listen/100coverslounge/radio.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JpR6onZ.jpegof_the_United_States_%28DoS_ECA_Color_Standard%29.svg.png" group-title="Radio estere" tvg-country="US" radio="true",1980s.FM
+#EXTVLCOPT:http-referrer=1980s.fm
+http://hi5.1980s.fm/
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/330px-Flag_of_Spain.svg.png" group-title="Radio estere" tvg-country="ES" radio="true",Absolute Chillout
+#EXTVLCOPT:http-referrer=www.absolutechillout.com
+http://streaming.live365.com/b05055_128mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JpR6onZ.jpegof_the_United_States_%28DoS_ECA_Color_Standard%29.svg.png" group-title="Radio estere" tvg-country="US" radio="true",Adagio.FM
+#EXTVLCOPT:http-referrer=adagio.fm
+http://hi5.adagio.fm
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",Best of Rock FM - Metallica
+#EXTVLCOPT:http-referrer=www.best-of-rock.fm/metallica
+http://bestofrockfm.stream.vip/metallica/mp3-128/radiode/
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/DNRQsgg.jpeg" group-title="Radio estere" tvg-country="FR" radio="true",Buddha Beach
+#EXTVLCOPT:http-referrer=www.vip-radios.fm/station/buddha-beach
+http://radio4.vip-radios.fm:8054/stream-64kAAC-BuddhaBeach
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/330px-Flag_of_Spain.svg.png" group-title="Radio estere" tvg-country="ES" radio="true",Café del Mar Radio
+#EXTVLCOPT:http-referrer=cafedelmar.com/radio
+http://streams.radio.co/se1a320b47/listen
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MOHRDGT.jpeg" group-title="Radio estere" tvg-country="GR" radio="true",Chillout Tree Pines
+#EXTVLCOPT:http-referrer=www.chillouttreepines.com
+http://stream.radiojar.com/n4dzb3znn3quv
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JpR6onZ.jpegof_the_United_States_%28DoS_ECA_Color_Standard%29.svg.png" group-title="Radio estere" tvg-country="US" radio="true",Chilltrax
+#EXTVLCOPT:http-referrer=www.chilltrax.com
+http://streams.electronicmusicradiogroup.org:9010/
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/330px-Flag_of_Spain.svg.png" group-title="Radio estere" tvg-country="ES" radio="true",Costa del Mar - Chillout
+#EXTVLCOPT:http-referrer=www.costadelmar-radio.com/chillout
+http://radio4.cdm-radio.com:8020/stream-mp3-Chill
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",Country 108
+#EXTVLCOPT:http-referrer=www.country108.com
+http://icepool.silvacast.com/COUNTRY108.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",Dark Ambient Radio
+#EXTVLCOPT:http-referrer=www.darkambientradio.de
+http://s3.viastreaming.net:8835/
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/huHxvqe.jpeg" group-title="Radio estere" tvg-country="BZ" radio="true",Darkwaveradio
+#EXTVLCOPT:http-referrer=darkwaveradio.net
+http://radio.webhosting4u.gr/stream/darkwaveradio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JpR6onZ.jpegof_the_United_States_%28DoS_ECA_Color_Standard%29.svg.png" group-title="Radio estere" tvg-country="US" radio="true",Death.FM
+#EXTVLCOPT:http-referrer=death.fm
+http://hi5.death.fm/
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",Eifellounge
+#EXTVLCOPT:http-referrer=laut.fm/eifellounge
+http://stream.laut.fm/eifellounge?ref=radiode
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JpR6onZ.jpegof_the_United_States_%28DoS_ECA_Color_Standard%29.svg.png" group-title="Radio estere" tvg-country="US" radio="true",Entranced.FM
+#EXTVLCOPT:http-referrer=entranced.fm
+http://hi5.entranced.fm/
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively a-ha
+#EXTVLCOPT:http-referrer=play.you.radio/station/39
+http://streaming.exclusive.radio/er-app/aha/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Abba - HITS
+#EXTVLCOPT:http-referrer=play.you.radio/station/2004
+http://streaming.exclusive.radio/er-app/abbahits/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Adele
+#EXTVLCOPT:http-referrer=you.radio/station/exclusiveradio-adele
+http://streaming.exclusive.radio/er-app/adele/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Aerosmith
+#EXTVLCOPT:http-referrer=play.you.radio/station/315
+http://streaming.exclusive.radio/er/aerosmith/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Alice Cooper
+#EXTVLCOPT:http-referrer=play.you.radio/station/316
+http://streaming.exclusive.radio/er-app/alicecooper/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Amy Winehouse - HITS
+#EXTVLCOPT:http-referrer=play.you.radio/station/2009
+http://streaming.exclusive.radio/er-app/amywinehousehits/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Ariana Grande - HITS
+#EXTVLCOPT:http-referrer=play.you.radio/station/2014
+http://streaming.exclusive.radio/er-app/arianagrandehits/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Avril Lavigne
+#EXTVLCOPT:http-referrer=play.you.radio/station/1285
+http://streaming.exclusive.radio/er-app/avrillavigne/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Barry White - HITS
+#EXTVLCOPT:http-referrer=play.you.radio/station/2016
+http://streaming.exclusive.radio/er-app/barrywhitehits/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Beach Boys - HITS
+#EXTVLCOPT:http-referrer=play.you.radio/station/2017
+http://streaming.exclusive.radio/er-app/beachboyshits/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Beatles - HITS
+#EXTVLCOPT:http-referrer=play.you.radio/station/2018
+http://streaming.exclusive.radio/er-app/thebeatleshits/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Bee Gees - HITS
+#EXTVLCOPT:http-referrer=play.you.radio/station/2019
+http://streaming.exclusive.radio/er-app/thebeegeeshits/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Beethoven
+#EXTVLCOPT:http-referrer=play.you.radio/station/941
+http://drive.uber.radio/uber/crbeethoven/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Belinda Carlisle
+#EXTVLCOPT:http-referrer=play.you.radio/station/73
+http://streaming.exclusive.radio/er-app/belindacarlisle/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Beyoncé - HITS
+#EXTVLCOPT:http-referrer=play.you.radio/station/1442
+http://streaming.exclusive.radio/er-app/beyoncehits/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Billie Eilish
+#EXTVLCOPT:http-referrer=play.you.radio/station/21
+http://streaming.exclusive.radio/er/billyeilish/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Black Sabbath
+#EXTVLCOPT:http-referrer=play.you.radio/station/318
+http://streaming.exclusive.radio/er/blacksabbath/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Blackpink
+#EXTVLCOPT:http-referrer=play.you.radio/station/1904
+http://streaming.exclusive.radio/uber-app/playpalblackpink/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Blondie - HITS
+#EXTVLCOPT:http-referrer=play.you.radio/station/2021
+http://streaming.exclusive.radio/er-app/blondiehits/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Britney Spears - HITS
+#EXTVLCOPT:http-referrer=play.you.radio/station/2027
+http://streaming.exclusive.radio/er-app/britneyspearshits/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Bruce Springsteen - HITS
+#EXTVLCOPT:http-referrer=play.you.radio/station/2028
+http://streaming.exclusive.radio/er-app/springsteenhits/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Bryan Adams - HITS
+#EXTVLCOPT:http-referrer=play.you.radio/station/2029
+http://streaming.exclusive.radio/er-app/bryanadamshits/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Cardi B
+#EXTVLCOPT:http-referrer=play.you.radio/station/27
+http://streaming.exclusive.radio/er-app/cardib/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Celine Dion - HITS
+#EXTVLCOPT:http-referrer=play.you.radio/station/2032
+http://streaming.exclusive.radio/er-app/celinedionhits/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Chappell Roan
+#EXTVLCOPT:http-referrer=you.radio/station/chappell-roan
+http://streaming.exclusive.radio/er-app/chappellroan/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Christina Aguilera
+#EXTVLCOPT:http-referrer=play.you.radio/station/732
+http://streaming.exclusive.radio/er-app/christinaaguilera/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Coldplay - HITS
+#EXTVLCOPT:http-referrer=play.you.radio/station/2037
+http://streaming.exclusive.radio/er/coldplayhits/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively David Bowie
+#EXTVLCOPT:http-referrer=play.you.radio/station/500
+http://streaming.exclusive.radio/er/davidbowie/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Deep Purple
+#EXTVLCOPT:http-referrer=play.you.radio/station/321
+http://streaming.exclusive.radio/er/deeppurple/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Def Leppard
+#EXTVLCOPT:http-referrer=play.you.radio/station/322
+http://streaming.exclusive.radio/er/defleppard/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Depeche Mode
+#EXTVLCOPT:http-referrer=play.you.radio/station/92
+http://streaming.exclusive.radio/er/depechemode/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="GB" radio="true",Exclusively Dire Straits
+#EXTVLCOPT:http-referrer=play.you.radio/station/501
+http://streaming.exclusive.radio/er/direstraits/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Doors
+#EXTVLCOPT:http-referrer=play.you.radio/station/532
+http://streaming.exclusive.radio/er/doors/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Dua Lipa
+#EXTVLCOPT:http-referrer=play.you.radio/station/32
+http://streaming.exclusive.radio/er/dualipa/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Duran Duran - HITS
+#EXTVLCOPT:http-referrer=play.you.radio/station/1485
+http://streaming.exclusive.radio/er/duranduranhits/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Eagles
+#EXTVLCOPT:http-referrer=play.you.radio/station/503
+http://streaming.exclusive.radio/er/eagles/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Ed Sheeran
+#EXTVLCOPT:http-referrer=play.you.radio/station/33
+http://streaming.exclusive.radio/er/edsheeran/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Elton John - HITS
+#EXTVLCOPT:http-referrer=play.you.radio/station/2049
+http://streaming.exclusive.radio/er-app/eltonjohnhits/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Enya
+#EXTVLCOPT:http-referrer=play.you.radio/station/809
+http://streaming.exclusive.radio/uber-app/easyenya/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Eric Clapton - HITS
+#EXTVLCOPT:http-referrer=play.you.radio/station/2051
+http://streaming.exclusive.radio/er-app/ericclaptonhits/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Eurythmics - HITS
+#EXTVLCOPT:http-referrer=play.you.radio/station/2052
+http://streaming.exclusive.radio/er-app/eurythmicshits/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Human League
+#EXTVLCOPT:http-referrer=play.you.radio/station/477
+http://streaming.exclusive.radio/er/humanleague/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Iron Maiden
+#EXTVLCOPT:http-referrer=play.you.radio/station/326
+http://streaming.exclusive.radio/er/ironmaiden/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Jennifer Lopez
+#EXTVLCOPT:http-referrer=play.you.radio/station/48
+http://streaming.exclusive.radio/er-app/jenniferlopez/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Joan Jett
+#EXTVLCOPT:http-referrer=play.you.radio/station/328
+http://streaming.exclusive.radio/er/joanjett/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Kate Bush
+#EXTVLCOPT:http-referrer=play.you.radio/station/350
+http://streaming.exclusive.radio/er-app/katebush/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Katy Perry
+#EXTVLCOPT:http-referrer=play.you.radio/station/54
+http://streaming.exclusive.radio/er-app/katyperry/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Kiss
+#EXTVLCOPT:http-referrer=play.you.radio/station/330
+http://streaming.exclusive.radio/er-app/kiss/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Kraftwerk
+#EXTVLCOPT:http-referrer=play.you.radio/station/1522
+http://streaming.exclusive.radio/er/kraftwerk/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Kylie Minogue
+#EXTVLCOPT:http-referrer=play.you.radio/station/352
+http://streaming.exclusive.radio/er/kylie/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Lady Gaga - HITS
+#EXTVLCOPT:http-referrer=play.you.radio/station/2073
+http://streaming.exclusive.radio/er/ladygagahits/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Lana Del Rey
+#EXTVLCOPT:http-referrer=play.you.radio/station/1191
+http://streaming.exclusive.radio/er-app/lanadelrey/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Led Zeppelin
+#EXTVLCOPT:http-referrer=play.you.radio/station/331
+http://streaming.exclusive.radio/er-app/ledzeppelin/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Lily Allen
+#EXTVLCOPT:http-referrer=you.radio/station/lily-allen
+http://streaming.exclusive.radio/er-app/lilyallen/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Madonna - HITS
+#EXTVLCOPT:http-referrer=play.you.radio/station/2078
+http://streaming.exclusive.radio/er-app/madonnahits/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Mariah Carey - HITS
+#EXTVLCOPT:http-referrer=play.you.radio/station/2079
+http://streaming.exclusive.radio/er-app/mariahcareyhits/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Mary J. Blige
+#EXTVLCOPT:http-referrer=play.you.radio/station/153
+http://streaming.exclusive.radio/er-app/maryjblige/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Michael Jackson - HITS
+#EXTVLCOPT:http-referrer=play.you.radio/station/2082
+http://streaming.exclusive.radio/er-app/michaeljacksonhits/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Miley Cyrus
+#EXTVLCOPT:http-referrer=play.you.radio/station/65
+http://streaming.exclusive.radio/er-app/mileycyrus/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Motörhead
+#EXTVLCOPT:http-referrer=play.you.radio/station/1322
+http://streaming.exclusive.radio/er-app/motorhead/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Mozart
+#EXTVLCOPT:http-referrer=play.you.radio/station/949
+http://drive.uber.radio/uber/crmozart/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Muse
+#EXTVLCOPT:http-referrer=play.you.radio/station/430
+http://streaming.exclusive.radio/er-app/muse/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively New Order
+#EXTVLCOPT:http-referrer=play.you.radio/station/446
+http://streaming.exclusive.radio/er/neworder/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Nirvana
+#EXTVLCOPT:http-referrer=play.you.radio/station/334
+http://streaming.exclusive.radio/er/nirvana/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Orchestral Manoeuvres in the Dark
+#EXTVLCOPT:http-referrer=play.you.radio/station/1437
+http://streaming.exclusive.radio/er/omd/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Patti Smith
+#EXTVLCOPT:http-referrer=you.radio/station/exclusiveradio-patti-smith
+http://streaming.exclusive.radio/er-app/pattismith/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Pet Shop Boys - HITS
+#EXTVLCOPT:http-referrer=play.you.radio/station/2092
+http://streaming.exclusive.radio/er-app/petshopboyshits/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Pink
+#EXTVLCOPT:http-referrer=play.you.radio/station/70
+http://streaming.exclusive.radio/er-app/pink/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Pink Floyd
+#EXTVLCOPT:http-referrer=play.you.radio/station/522
+http://streaming.exclusive.radio/er/pinkfloyd/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Prince
+#EXTVLCOPT:http-referrer=you.radio/station/exclusiveradio-prince
+http://streaming.exclusive.radio/er-app/prince/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Pussycat Dolls
+#EXTVLCOPT:http-referrer=play.you.radio/station/71
+http://streaming.exclusive.radio/er-app/pussycatdolls/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Queen
+#EXTVLCOPT:http-referrer=play.you.radio/station/335
+http://streaming.exclusive.radio/er-app/queen/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively R.E.M. - HITS
+#EXTVLCOPT:http-referrer=play.you.radio/station/435
+http://streaming.exclusive.radio/er-app/remhits/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Red Hot Chili Peppers
+#EXTVLCOPT:http-referrer=you.radio/station/exclusiveradio-red-hot-chili-peppers
+http://streaming.exclusive.radio/er-app/chilipeppers/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Rihanna - HITS
+#EXTVLCOPT:http-referrer=play.you.radio/station/1474
+http://streaming.exclusive.radio/er-app/rihannahits/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Roxette
+#EXTVLCOPT:http-referrer=play.you.radio/station/456
+http://streaming.exclusive.radio/er/roxette/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Rush
+#EXTVLCOPT:http-referrer=play.you.radio/station/338
+http://streaming.exclusive.radio/er-app/rush/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Sabrina Carpenter
+#EXTVLCOPT:http-referrer=you.radio/station/exclusiveradio-sabrina-carpenter
+http://streaming.exclusive.radio/er-app/sabrinacarperpenter/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Sade
+#EXTVLCOPT:http-referrer=play.you.radio/station/623
+http://streaming.exclusive.radio/er-app/sade/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Scorpions
+#EXTVLCOPT:http-referrer=play.you.radio/station/339
+http://streaming.exclusive.radio/er-app/scorpions/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Shakira - HITS
+#EXTVLCOPT:http-referrer=play.you.radio/station/1475
+http://streaming.exclusive.radio/er/shakirahits/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Simple Minds
+#EXTVLCOPT:http-referrer=play.you.radio/station/340
+http://streaming.exclusive.radio/er/simpleminds/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Spandau Ballet
+#EXTVLCOPT:http-referrer=play.you.radio/station/462
+http://streaming.exclusive.radio/er/spandauballet/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Spice Girls
+#EXTVLCOPT:http-referrer=play.you.radio/station/2439
+http://streaming.exclusive.radio/er/spicegirls/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Sting - HITS
+#EXTVLCOPT:http-referrer=play.you.radio/station/2115
+http://streaming.exclusive.radio/er-app/stinghits/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Supertramp
+#EXTVLCOPT:http-referrer=play.you.radio/station/529
+http://streaming.exclusive.radio/er/supertramp/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Suzanne Vega
+#EXTVLCOPT:http-referrer=play.you.radio/station/464
+http://streaming.exclusive.radio/er-app/suzannevega/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Taylor Swift - HITS
+#EXTVLCOPT:http-referrer=play.you.radio/station/2118
+http://streaming.exclusive.radio/er/taylorswifthits/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Tears for Fears
+#EXTVLCOPT:http-referrer=play.you.radio/station/468
+http://streaming.exclusive.radio/er-app/tearsforfears/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively The Clash
+#EXTVLCOPT:http-referrer=play.you.radio/station/476
+http://streaming.exclusive.radio/er-app/theclash/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively The Cure
+#EXTVLCOPT:http-referrer=play.you.radio/station/438
+http://streaming.exclusive.radio/er/thecure/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively The Police - HITS
+#EXTVLCOPT:http-referrer=play.you.radio/station/2120
+http://streaming.exclusive.radio/er-app/policehits/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively The Smiths
+#EXTVLCOPT:http-referrer=play.you.radio/station/441
+http://streaming.exclusive.radio/er-app/thesmiths/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively The Stranglers
+#EXTVLCOPT:http-referrer=play.you.radio/station/2402
+http://streaming.exclusive.radio/er-app/thestranglers/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively The Weeknd - HITS
+#EXTVLCOPT:http-referrer=you.radio/station/exclusivehits-the-weeknd-hits
+http://streaming.exclusive.radio/er-app/theweekndhits/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Tina Turner - HITS
+#EXTVLCOPT:http-referrer=play.you.radio/station/2122
+http://streaming.exclusive.radio/er-app/tinaturnerhits/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively U2
+#EXTVLCOPT:http-referrer=play.you.radio/station/344
+http://streaming.exclusive.radio/er/u2/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Van Halen
+#EXTVLCOPT:http-referrer=play.you.radio/station/345
+http://streaming.exclusive.radio/er-app/vanhalen/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Whitesnake
+#EXTVLCOPT:http-referrer=play.you.radio/station/346
+http://streaming.exclusive.radio/er/whitesnake/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively Whitney Houston - HITS
+#EXTVLCOPT:http-referrer=play.you.radio/station/1496
+http://streaming.exclusive.radio/er-app/whitneyhoustonhits/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dvj3qzq.png" group-title="Radio estere" tvg-country="AE" radio="true",Exclusively ZZ Top
+#EXTVLCOPT:http-referrer=you.radio/station/exclusiveradio-zz-top
+http://streaming.exclusive.radio/er-app/zztop/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JpR6onZ.jpegof_the_United_States_%28DoS_ECA_Color_Standard%29.svg.png" group-title="Radio estere" tvg-country="US" radio="true",FM Cube - Radio Ace of Base
+#EXTVLCOPT:http-referrer=fmcube.net/radio/ace-of-base
+http://stream.pcradio.ru/Ace_Of_Base-hi
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JpR6onZ.jpegof_the_United_States_%28DoS_ECA_Color_Standard%29.svg.png" group-title="Radio estere" tvg-country="US" radio="true",FM Cube - Radio Dio
+#EXTVLCOPT:http-referrer=fmcube.net/radio/dio
+http://stream.pcradio.ru/dio-hi
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JpR6onZ.jpegof_the_United_States_%28DoS_ECA_Color_Standard%29.svg.png" group-title="Radio estere" tvg-country="US" radio="true",FM Cube - Radio Marilyn Manson
+#EXTVLCOPT:http-referrer=fmcube.net/radio/marilyn-manson
+http://stream.pcradio.ru/Marilyn_Manson-hi
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JpR6onZ.jpegof_the_United_States_%28DoS_ECA_Color_Standard%29.svg.png" group-title="Radio estere" tvg-country="US" radio="true",FM Cube - Radio Megadeth
+#EXTVLCOPT:http-referrer=fmcube.net/radio/megadeth
+http://stream.pcradio.ru/megadeth-hi
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JpR6onZ.jpegof_the_United_States_%28DoS_ECA_Color_Standard%29.svg.png" group-title="Radio estere" tvg-country="US" radio="true",FM Cube - Radio Napalm Death
+#EXTVLCOPT:http-referrer=fmcube.net/radio/napalm-death
+http://stream.pcradio.ru/napalm_death-hi
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JpR6onZ.jpegof_the_United_States_%28DoS_ECA_Color_Standard%29.svg.png" group-title="Radio estere" tvg-country="US" radio="true",FM Cube - Radio Nightwish
+#EXTVLCOPT:http-referrer=fmcube.net/radio/nightwish
+http://stream.pcradio.ru/Nightwish-hi
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JpR6onZ.jpegof_the_United_States_%28DoS_ECA_Color_Standard%29.svg.png" group-title="Radio estere" tvg-country="US" radio="true",FM Cube - Radio Ozzy Osbourne
+#EXTVLCOPT:http-referrer=fmcube.net/radio/ozzy-osbourne
+http://stream.pcradio.ru/ozzy_osbourne-hi
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JpR6onZ.jpegof_the_United_States_%28DoS_ECA_Color_Standard%29.svg.png" group-title="Radio estere" tvg-country="US" radio="true",FM Cube - Radio Rainbow
+#EXTVLCOPT:http-referrer=fmcube.net/radio/rainbow
+http://stream.pcradio.ru/Rainbow-hi
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JpR6onZ.jpegof_the_United_States_%28DoS_ECA_Color_Standard%29.svg.png" group-title="Radio estere" tvg-country="US" radio="true",FM Cube - Radio Rammstein
+#EXTVLCOPT:http-referrer=fmcube.net/radio/rammstein-18
+http://stream.pcradio.ru/Rammstein-hi
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JpR6onZ.jpegof_the_United_States_%28DoS_ECA_Color_Standard%29.svg.png" group-title="Radio estere" tvg-country="US" radio="true",FM Cube - Radio Sandra
+#EXTVLCOPT:http-referrer=fmcube.net/radio/sandra
+http://stream.pcradio.ru/Sandra-med
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JpR6onZ.jpegof_the_United_States_%28DoS_ECA_Color_Standard%29.svg.png" group-title="Radio estere" tvg-country="US" radio="true",FM Cube - Radio Sex Pistols
+#EXTVLCOPT:http-referrer=fmcube.net/radio/sex-pistols
+http://stream.pcradio.ru/sex_pistols-hi
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JpR6onZ.jpegof_the_United_States_%28DoS_ECA_Color_Standard%29.svg.png" group-title="Radio estere" tvg-country="US" radio="true",FM Cube - Radio t.A.T.u.
+#EXTVLCOPT:http-referrer=fmcube.net/radio/tatu-tatu
+http://stream.pcradio.ru/Tatu-hi
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JpR6onZ.jpegof_the_United_States_%28DoS_ECA_Color_Standard%29.svg.png" group-title="Radio estere" tvg-country="US" radio="true",FM Cube - Radio The Corrs
+#EXTVLCOPT:http-referrer=fmcube.net/radio/the-corrs
+http://stream.pcradio.ru/The_Corrs-hi
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JpR6onZ.jpegof_the_United_States_%28DoS_ECA_Color_Standard%29.svg.png" group-title="Radio estere" tvg-country="US" radio="true",FM Cube - Radio The Cranberries
+#EXTVLCOPT:http-referrer=fmcube.net/radio/the-cranberries
+http://stream.pcradio.ru/the_cranberries-hi
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JpR6onZ.jpegof_the_United_States_%28DoS_ECA_Color_Standard%29.svg.png" group-title="Radio estere" tvg-country="US" radio="true",FM Cube - Radio The Prodigy
+#EXTVLCOPT:http-referrer=fmcube.net/radio/the-prodigy
+http://stream.pcradio.ru/The_Prodigy-hi
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JpR6onZ.jpegof_the_United_States_%28DoS_ECA_Color_Standard%29.svg.png" group-title="Radio estere" tvg-country="US" radio="true",FM Cube - Radio Within Temptation
+#EXTVLCOPT:http-referrer=fmcube.net/radio/within-temptation
+https://stream.pcradio.ru/Within_Temptation-hi
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PAuPkUv.jpeg" group-title="Radio estere" tvg-country="BE" radio="true",Gothville Radio
+#EXTVLCOPT:http-referrer=www.gothville.com
+http://streams.radio.co/s62583474c/listen
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bhSWAis.jpegg.png" group-title="Radio estere" tvg-country="CA" radio="true",Hair Band Radio
+#EXTVLCOPT:http-referrer=metalshoprocks.torontocast.stream/listen-hair-band-radio
+https://quincy.torontocast.com:3115/stream
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/J7MJnaU.jpeg" group-title="Radio estere" tvg-country="GB" radio="true",Heart 80s
+#EXTVLCOPT:http-referrer=www.heart.co.uk/80s
+http://media-ice.musicradio.com/Heart80s
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",Hirschmilch Radio - Chillout
+#EXTVLCOPT:http-referrer=hirschmilch.de/chillout
+http://hirschmilch.de:7001/chillout.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",Hirschmilch Radio - Progressive
+#EXTVLCOPT:http-referrer=hirschmilch.de/progressive
+http://hirschmilch.de:7001/progressive.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/330px-Flag_of_Spain.svg.png" group-title="Radio estere" tvg-country="ES" radio="true",Ibiza Global Radio
+#EXTVLCOPT:http-referrer=www.ibizaglobalradio.com
+http://listenssl.ibizaglobalradio.com:8024/ibizaglobalradio.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/DNRQsgg.jpeg" group-title="Radio estere" tvg-country="FR" radio="true",ItaloPower!
+#EXTVLCOPT:http-referrer=www.italopower.com
+https://stream.deevaradio.net:10443/italopower
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3RLgQDK.jpeg" group-title="Radio estere" tvg-country="UA" radio="true",Lounge FM - Chill Out
+#EXTVLCOPT:http-referrer=loungefm.com.ua/chillout
+http://cast.mediaonline.net.ua/chillout320
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",Metal Hammer
+#EXTVLCOPT:http-referrer=www.metal-hammer.de
+http://metal-hammer.stream.laut.fm/metal-hammer
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",Moshhead Black Metal
+#EXTVLCOPT:http-referrer=laut.fm/moshhead-blackmetal
+http://moshhead-blackmetal.stream.laut.fm/moshhead-blackmetal?pl=m3u
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",Moshhead Gothic
+#EXTVLCOPT:http-referrer=laut.fm/moshhead-gothic
+http://moshhead-gothic.stream.laut.fm/moshhead-gothic?pl=m3u
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MjvumAN.jpeg" group-title="Radio estere" tvg-country="SE" radio="true",Northern Metal Radio
+#EXTVLCOPT:http-referrer=www.northernmetalradio.com
+http://dc5.serverse.com/proxy/lvzgnvcj/stream
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/DNRQsgg.jpeg" group-title="Radio estere" tvg-country="FR" radio="true",NRJ DANCE 90
+#EXTVLCOPT:http-referrer=www.nrj.fr/webradios
+http://streaming.nrjaudio.fm/ouwgqgsk6j4d
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/DNRQsgg.jpeg" group-title="Radio estere" tvg-country="FR" radio="true",NRJ HITS 90
+#EXTVLCOPT:http-referrer=www.nrj.fr/webradios
+http://streaming.nrjaudio.fm/our7mavukkaq
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",ON - 70s
+#EXTVLCOPT:http-referrer=www.0nradio.com
+http://0n-70s.radionetz.de/0n-70s.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",ON - 80s
+#EXTVLCOPT:http-referrer=www.0nradio.com
+http://0n-80s.radionetz.de/0n-80s.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",ON - 90s
+#EXTVLCOPT:http-referrer=www.0nradio.com
+http://0n-90s.radionetz.de/0n-90s.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",ON - 2000s
+#EXTVLCOPT:http-referrer=www.0nradio.com
+http://0n-2000s.radionetz.de/0n-2000s.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",ON - 2010s
+#EXTVLCOPT:http-referrer=www.0nradio.com
+http://0n-2010s.radionetz.de/0n-2010s.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",ON - Charts
+#EXTVLCOPT:http-referrer=www.0nradio.com
+http://0n-charts.radionetz.de/0n-charts.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",ON - Dance
+#EXTVLCOPT:http-referrer=www.0nradio.com
+http://0n-dance.radionetz.de/0n-dance.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",ON - Gothic
+#EXTVLCOPT:http-referrer=www.0nradio.com
+http://0n-gothic.radionetz.de/0n-gothic.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",ON - Greatest Hits
+#EXTVLCOPT:http-referrer=www.0nradio.com
+http://0n-greatesthits.radionetz.de/0n-greatesthits.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",ON - Heavy Metal
+#EXTVLCOPT:http-referrer=www.0nradio.com
+http://0n-heavymetal.radionetz.de/0n-heavymetal.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",ON - House
+#EXTVLCOPT:http-referrer=www.0nradio.com
+https://0n-house.radionetz.de/0n-house.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",ON - Lounge
+#EXTVLCOPT:http-referrer=www.0nradio.com
+http://0n-lounge.radionetz.de/0n-lounge.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",ON - New Wave
+#EXTVLCOPT:http-referrer=www.0nradio.com
+http://0n-newwave.radionetz.de/0n-newwave.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",ON - Oldies
+#EXTVLCOPT:http-referrer=www.0nradio.com
+http://0n-oldies.radionetz.de/0n-oldies.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",ON - Radio
+#EXTVLCOPT:http-referrer=www.0nradio.com
+http://0n-radio.radionetz.de/0n-radio.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",ON - Relax
+#EXTVLCOPT:http-referrer=www.0nradio.com
+http://0n-relax.radionetz.de/0n-relax.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",ON - Soft Pop
+#EXTVLCOPT:http-referrer=www.0nradio.com
+http://0n-softpop.radionetz.de/0n-softpop.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",ON - Techno
+#EXTVLCOPT:http-referrer=www.0nradio.com
+http://0n-techno.radionetz.de/0n-techno.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",ON - Top 40
+#EXTVLCOPT:http-referrer=www.0nradio.com
+http://0n-top40.radionetz.de/0n-top40.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",Pop Lounge Cafe
+#EXTVLCOPT:http-referrer=poploungecafe.com
+http://poploungecafe.stream.laut.fm/poploungecafe?pl=m3u
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MOHRDGT.jpeg" group-title="Radio estere" tvg-country="GR" radio="true",Psyndora Chillout
+#EXTVLCOPT:http-referrer=www.psyndora.com/chill.html
+http://cast.magicstreams.gr:9125/stream
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",Radio Bob! Death Metal
+#EXTVLCOPT:http-referrer=www.radiobob.de/bobs-death-metal-stream
+http://streams.radiobob.de/deathmetal/mp3-192/radiode/
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",Radio Bob! Gothic Rock
+#EXTVLCOPT:http-referrer=www.radiobob.de/gothic-rock-stream
+http://streams.radiobob.de/gothic/mp3-192/radiode/
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",Radio Bob! Metal
+#EXTVLCOPT:http-referrer=www.radiobob.de/metal-stream
+http://streams.radiobob.de/bob-metal/mp3-192/radiode/
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",Radio Bob! Power Metal
+#EXTVLCOPT:http-referrer=www.radiobob.de/power-metal-stream
+http://streams.radiobob.de/powermetal/mp3-192/radiode/
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",Radio Bob! Symphonic Metal
+#EXTVLCOPT:http-referrer=www.radiobob.de/bobs-symphonic-metal-stream
+http://streams.radiobob.de/symphmetal/mp3-192/radiode/
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",Radio Bob! Metallica
+#EXTVLCOPT:http-referrer=www.radio.it/s/radiobobmetallica
+http://streams.radiobob.de/metallica/mp3-192/radiode/
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",Radio Bob! Ozzy Osbourne
+#EXTVLCOPT:http-referrer=www.radiobob.de
+http://streams.radiobob.de/ozzyosbourne/mp3-192/
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",Radio Bob! Queen
+#EXTVLCOPT:http-referrer=www.radiobob.de
+http://streams.radiobob.de/bob-queen/mp3-192/
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - 80's Music Collection
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://79.120.39.202:8002/pop80
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - 90's Music Collection
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://213.141.131.10:8002/90collection
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - Atmospheric/Ambient Black Metal
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://79.120.39.202:8002/aabmds
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - Atmospheric/Doom Metal
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://213.141.131.10:8002/atmosphericdoom
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - Avant-garde Black Metal
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://79.120.39.202:8002/avantblackmet
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - Black Metal
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://79.120.77.11:8002/blackmetal
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - Black/Blackened Doom Metal
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://79.120.77.11:8002/blackdoom
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - Chill Out
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://79.111.14.76:8002/chillout
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - Dance Pop
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://79.120.77.11:8002/dancepop
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - Dark Metal
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://79.111.119.111:8002/darkmetal
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - Dark Wave
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://79.111.14.76:8002/darkwave
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - Dark/Neo/Apocalyptic Folk
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://79.111.119.111:8002/darkfolk
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - Death Metal
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://79.120.77.11:8002/deathmetal
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - Death/Doom Metal
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://79.120.39.202:8002/deathdoom
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - Depressive Black Metal
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://79.111.119.111:8002/dsbm
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - Doom/Epic Metal
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://79.111.14.76:8002/doom
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - Drone/Drone Doom Metal
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://79.120.39.202:8002/dronemetal
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - Dungeon Synth
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://79.120.12.130:8002/dungeonsynth
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - EBM
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://79.111.14.76:8002/ebm
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - Ethereal Wave/Goth/Darkwave
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://213.141.131.10:8002/ethereal
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - Folk Metal
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://79.120.39.202:8002/folkmetal
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - Folk/Black Metal
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://79.120.12.130:8002/folkblackmet
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - Funeral Doom Metal
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://79.120.77.11:8002/funeraldoom
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - Gothic Metal
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://79.120.77.11:8002/gothicmetal
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - Gothic/Black Metal
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://79.120.39.202:8002/gothblackmet
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - Gothic/Doom Metal
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://79.120.39.202:8002/gothdoommet
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - Heavy Metal
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://79.111.14.76:8002/heavymetal
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - Italian Popular Music
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://213.141.131.10:8002/italopop
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - Italo Disco
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://79.111.119.111:8002/italodisco
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - Italodance
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://79.111.14.76:8002/italodance
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - Lo-fi
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://79.111.14.76:8002/lo-fi
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - Melodic Death Metal
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://79.120.77.11:8002/melodicdeath
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - Neoclassical Metal
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://79.111.119.111:8002/neoclassicalmetal
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - New Wave
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://79.120.39.202:8002/newwave
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - NWOBHM
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://79.120.12.130:8002/nwobhm
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - Pagan Metal
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://79.111.119.111:8002/paganmetal
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - Pop Music
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://79.120.77.11:8002/pop
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - Progressive Black Metal/Post-Black/Blackgaze
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://79.111.14.76:8002/postblack
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - Progressive Death Metal
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://79.111.119.111:8002/progdeath
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - Progressive Metal
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://79.120.77.11:8002/progmetal
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - Psychedelic Rock
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://79.111.119.111:8002/psychedelicrock
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - R'n'B
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://79.120.77.11:8002/rnb
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - Spacesynth/Synthdance/Spacedance
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://79.120.39.202:8002/spacesynth
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - Symphonic Black Metal
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://79.111.119.111:8002/symphonicblackmetal
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - Symphonic Metal
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://79.120.77.11:8002/symphometal
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - Symphonic/Gothic Metal
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://213.141.131.10:8002/symphogoth
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - Symphonic/Power Metal
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://213.141.131.10:8002/symphopower
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png" group-title="Radio estere" tvg-country="RU" radio="true",Radio Caprice - Thrash Metal
+#EXTVLCOPT:http-referrer=www.radcap.ru
+http://79.120.77.11:8002/thrashmetal
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JpR6onZ.jpegof_the_United_States_%28DoS_ECA_Color_Standard%29.svg.png" group-title="Radio estere" tvg-country="US" radio="true",Radio Country Live
+#EXTVLCOPT:http-referrer=www.radiocountrylive.com
+http://streaming.radiostreamlive.com/radiocountrylive_devices
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",Radio Dunkle Welle
+#EXTVLCOPT:http-referrer=dunklewelle.eu
+http://dunklewelle.spcast.eu/stream
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/IABpfVm.jpeg" group-title="Radio estere" tvg-country="PL" radio="true",Radio Horyzont
+#EXTVLCOPT:http-referrer=radiohoryzont.pl
+http://s1.slotex.pl:7328/stream
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/J7MJnaU.jpeg" group-title="Radio estere" tvg-country="GB" radio="true",Radio Simple Minds
+#EXTVLCOPT:http-referrer=www.radiosimpleminds.com/listen.html
+http://radio.mediacp.eu/stream/radiosimpleminds/stream
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/BS6uVMa.png" group-title="Radio estere" tvg-country="CH" radio="true",Radio Swiss Jazz
+#EXTVLCOPT:http-referrer=www.radioswissjazz.ch/it
+http://stream.srg-ssr.ch/m/rsj/mp3_128
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bhSWAis.jpegg.png" group-title="Radio estere" tvg-country="CA" radio="true",RdMix Italo Disco 80s
+#EXTVLCOPT:http-referrer=radiodimensionemix.torontocast.stream/rdmix-italo-disco-80s
+http://cast1.torontocast.com:2130/stream
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/IABpfVm.jpeg" group-title="Radio estere" tvg-country="PL" radio="true",RMF Queen
+#EXTVLCOPT:http-referrer=www.rmfon.pl
+http://195.150.20.8/QUEEN
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",Rock Antenne - Gothic
+#EXTVLCOPT:http-referrer=www.rockantenne.de/rockhoeren/streams/gothic
+http://stream.rockantenne.de/gothic/stream/mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",Rock Antenne - Hair Metal
+#EXTVLCOPT:http-referrer=www.rockantenne.de/rockhoeren/streams/hair-metal
+http://stream.rockantenne.de/hair-metal/stream/mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",Rock Antenne - Heavy Metal
+#EXTVLCOPT:http-referrer=www.rockantenne.de/rockhoeren/streams/heavy-metal
+http://stream.rockantenne.de/heavy-metal/stream/mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",Rock Antenne - Rockabilly
+#EXTVLCOPT:http-referrer=www.rockantenne.de/rockhoeren/streams/rockabilly
+http://stream.rockantenne.de/rockabilly/stream/mp3
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",Rockabillyradio 247
+#EXTVLCOPT:http-referrer=laut.fm/rockabillyradio247
+http://stream.laut.fm/rockabillyradio247?ref=radiode
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SFhRHtJ.jpeg" group-title="Radio estere" tvg-country="DE" radio="true",sine-music
+#EXTVLCOPT:http-referrer=laut.fm/sine-music
+http://sine-music.stream.laut.fm/sine-music
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/BS6uVMa.png" group-title="Radio estere" tvg-country="CH" radio="true",Truehouse.net - Chillout Lounge
+#EXTVLCOPT:http-referrer=www.truehouse.net
+http://stream.truehouse.net:8000/chill
