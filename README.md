@@ -19,5 +19,5 @@ href="https://github.com/Yoda-JM73/IPTV-Italia/blob/main/Radio.m3u">https://gith
     </tr>
   </tbody>
 </table>
-<font face="Helvetica, Arial, sans-serif"><br>
-</font>
+<font face="Helvetica, Arial, sans-serif"><br></font>
+Le playlist sono riproducibili con vari player, come Kodi, PotPlayer, VLC ecc..
