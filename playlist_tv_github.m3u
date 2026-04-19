@@ -1,0 +1,454 @@
+#EXTM3U url-tvg="https://www.open-epg.com/files/italy8.xml.gz"
+#EXTINF:-1 tvg-id="Rai 1.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai1.png" group-title="Rai",Rai 1
+http://raiuno3-live.akamaized.net/hls/live/2017910/raiuno3/raiuno3/playlist.m3u8|user-agent=rainet/4.0.8
+#EXTINF:-1 tvg-id="Rai 2.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai2.png" group-title="Rai",Rai 2
+http://raidue3-live.akamaized.net/hls/live/2017983/raidue3/raidue3/playlist.m3u8|user-agent=rainet/4.0.8
+#EXTINF:-1 tvg-id="Rai 3.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai3.png" group-title="Rai",Rai 3
+http://raitre3-live.akamaized.net/hls/live/2018002/raitre3/raitre3/playlist.m3u8|user-agent=rainet/4.0.8
+#EXTINF:-1 tvg-id="Rete4.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rete4.png" group-title="Mediaset",Rete 4
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Canale 5.it" tvg-logo="https://i.pinimg.com/736x/3f/60/7c/3f607c388bf217555519bf548157e6b2.jpg" group-title="Mediaset",Canale 5
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Italia Uno.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/italia1.png" group-title="Mediaset",Italia 1
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="LA7.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la7.png" group-title="Altro",La7
+http://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
+#EXTINF:-1 tvg-id="TV8.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv8.png" group-title="Sky",TV8
+http://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+#EXTINF:-1 tvg-id="NOVE.it" tvg-logo="https://nove.tv/static/1.36.0/it/nove/icons/apple-touch-icon-180x180.png" group-title="Discovery",Nove
+http://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.norbaonline.it/static/2023/01/cropped-norbaonline-favicon-192x192.png" group-title="Tv locali",Telenorba
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/telenorba/master.m3u8
+#EXTINF:-1 tvg-id="Radionorba TV.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/80/Radionorba_tv_logo_2021.png/250px-Radionorba_tv_logo_2021.png" group-title="Musica",Radio Norba TV
+http://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="TG Norba24.it" tvg-logo="https://admuzzum.xdevel.com/cloud/x/cid/35/im/jpeg/XZXV/X/YT/ae3119bb4f492888462d03d3c7a62d67.jpg" group-title="News",TG Norba 24
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.antennasud.com/media/2022/11/cropped-cropped-favicon-192x192.png" group-title="Tv locali",Antenna Sud
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/antennasud/media--video-stream-2--audio-stream-1.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="" tvg-logo="https://mito-obj01.vhostingcloud.com/telebari/2023/03/cropped-favicon-1-192x192.png" group-title="Tv locali",TeleBari
+https://w1.mediastreaming.it/telebari/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://iconape.com/wp-content/files/cw/281852/png/281852.png" group-title="Tv locali",Telesveva
+http://live2.telesveva.com/hls/svevahd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvdream.net/img/teledehon.png" group-title="Religione",Tele Dehon
+https://5f22d76e220e1.streamlock.net/rtmpteledehon/smil:rtmpteledehon.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="canale 20.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmWc70HZT9-8DXqqnUZNNBm9EN17sxFOezH55GVz7cSg&s" group-title="Mediaset",20 Mediaset
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Rai 4.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai4.png" group-title="Rai",Rai 4
+http://raiquattro3-live.akamaized.net/hls/live/2018003/raiquattro3/raiquattro3/playlist.m3u8|user-agent=rainet/4.0.8
+#EXTINF:-1 tvg-id="Iris.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/iris.png" group-title="Mediaset",Iris
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Rai 5.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai5.png" group-title="Rai",Rai 5
+http://raicinque3-live.akamaized.net/hls/live/2018007/raicinque3/raicinque3/playlist.m3u8|user-agent=rainet/4.0.8
+#EXTINF:-1 tvg-id="Rai Movie.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raimovie.png" group-title="Rai",Rai Movie
+http://raimovie3-live.akamaized.net/hls/live/2018010/raimovie3/raimovie3/playlist.m3u8|user-agent=rainet/4.0.8
+#EXTINF:-1 tvg-id="Rai Premium.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raipremium.png" group-title="Rai",Rai Premium
+http://raipremium3-live.akamaized.net/hls/live/2018013/raipremium3/raipremium3/playlist.m3u8|user-agent=rainet/4.0.8
+#EXTINF:-1 tvg-id="Cielo.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cielo.png" group-title="Sky",Cielo
+http://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+#EXTINF:-1 tvg-id="Mediaset 27.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/twentyseven.png" group-title="Mediaset",27 Twentyseven
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="TV2000.it" tvg-logo="https://www.tv2000.it/wp-content/themes/tv2000/assets/images/apple-icon-180x180.png" group-title="Religione",TV2000
+http://hls.live2.meride.tv/hls/live/2028947/pu934tjb/hls_1_3000/chunklist.m3u8
+#EXTINF:-1 tvg-id="La 5.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la5.png" group-title="Mediaset",La 5
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Real Time.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/realtime.png" group-title="Discovery",Real Time
+http://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
+#EXTINF:-1 tvg-id="foodnetwork.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/foodnetwork.png" group-title="Discovery",Food Network
+http://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
+#EXTINF:-1 tvg-id="Cine 34.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cine34.png" group-title="Mediaset",Cine34
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Focus.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/focus.png" group-title="Mediaset",Focus
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="RTL 102.5 TV.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtl1025tv.png" group-title="Musica",RTL 102.5 TV
+http://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+#EXTINF:-1 tvg-id="Giallo.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/giallo.png" group-title="Discovery",Giallo
+http://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8
+#EXTINF:-1 tvg-id="TOPCrime.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/topcrime.png" group-title="Mediaset",Top Crime
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Boing.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/boing.png" group-title="Kids",Boing
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="K2.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/k2.png" group-title="Kids",K2
+http://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8
+#EXTINF:-1 tvg-id="Rai Gulp.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raigulp.png" group-title="Kids",Rai Gulp
+https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.m3u8|user-agent=rainet/4.0.8
+#EXTINF:-1 tvg-id="Rai YoYo.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raiyoyo.png" group-title="Kids",Rai YoYo
+#EXTVLCOPT:http-user-agent=rainet/4.0.8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7
+#EXTINF:-1 tvg-id="FRISBEE.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/frisbee.png" group-title="Kids",Frisbee
+http://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
+#EXTINF:-1 tvg-id="Cartoonito.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cartoonito.png" group-title="Kids",Cartoonito
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Super!.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Super%21_logo_2025.png" group-title="Kids",Super!
+http://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8|user-agent=HbbTV/1.6.1
+#EXTINF:-1 tvg-id="Rai News 24.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rainews24.png" group-title="News",Rai News 24
+#EXTVLCOPT:http-user-agent=rainet/4.0.8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7
+#EXTINF:-1 tvg-id="Mediaset Italia Due.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/italia2.png" group-title="Mediaset",Mediaset Italia 2
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Sky Tg24.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/skytg24.png" group-title="News",Sky TG24
+http://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+#EXTINF:-1 tvg-id="TgCom24.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tgcom24.png" group-title="News",TGCOM 24
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="DMAX.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/dmax.png" group-title="Discovery",DMAX
+http://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
+#EXTINF:-1 tvg-id="Rai Storia.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raistoria.png" group-title="Rai",Rai Storia
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7
+#EXTINF:-1 tvg-id="Mediaset Extra.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/mediasetextra.png" group-title="Mediaset",Mediaset Extra
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Home And Garden TV.it" tvg-logo="https://i.imgur.com/lKJQM60.png" group-title="Discovery",HGTV
+http://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
+#EXTINF:-1 tvg-id="Rai Scuola.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raiscuola.png" group-title="Rai",Rai Scuola
+#EXTVLCOPT:http-user-agent=rainet/4.0.8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7
+#EXTINF:-1 tvg-id="Rai Sport.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raisport+hd.png" group-title="Sport",Rai Sport
+#EXTVLCOPT:http-user-agent=rainet/4.0.8
+#EXTINF:-1 tvg-id="Motor Trend.it" tvg-logo="https://www.tivu.tv/_common/images/cover-canali/discovery-turbo.jpg" group-title="Discovery",Discovery Turbo
+http://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="ITBA2200010O1" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/sportitalia.png" group-title="Sport",Sportitalia
+http://distribution.sportitalialive.it/sportitalia/sihd_abr2/playlist.m3u8
+#EXTINF:-1 tvg-id="IL61.it" tvg-logo="https://i.imgur.com/an32a5x.jpeg" group-title="Altro",IL61
+https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
+#EXTINF:-1 tvg-id="Supertennis.it" tvg-logo="https://www.confindustriaradiotv.it/wp-content/uploads/2022/05/Super-tennis.png" group-title="Sport",SuperTennis
+http://d2bbbc1corbwv1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bllikk0toovuo/SupertennisIT.m3u8
+#EXTINF:-1 tvg-id="Radio 105.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radio105tv.png" group-title="Musica",Radio 105 TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="R101.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/r101tv.png" group-title="Musica",R101 TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://bomchannel.it/wp-content/uploads/2020/05/cropped-logo-bom-channel-1-2-192x192.jpg" group-title="Altro",BOM Channel
+https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
+#EXTINF:-1 tvg-id="Deejay TV.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/deejaytv.png" group-title="Musica",Deejay TV
+http://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioItaliaTV.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radioitaliatv.png" group-title="Musica",RadioItalia TV
+http://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvdream.net/img/trc-santeramo.png" group-title="Tv locali",TRC
+http://stream7.livinlive.it/trc/trc/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/www.teleregionecolor.com/wp-content/uploads/2019/09/cropped-TELEREGIONE_LOGO.png" group-title="Tv locali",Teleregione Color
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/teleregione/media--video-stream-2--audio-stream-1.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.canale7.tv/favicon.png" group-title="Tv locali",Canale 7
+http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvdream.net/img/telemajg.png" group-title="Tv locali",TeleMajg
+http://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sl9T3ku.jpeg" group-title="Tv locali",Easy TV
+https://diretta.arcapuglia.it:8080/live/easytv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.weddingtv.it/wp-content/uploads/2021/12/favicon.png" group-title="Altro",Wedding TV
+https://604e46ac2bdee.streamlock.net:1936/marcorenzi/marcorenzi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jZ0nNz4.jpeg" group-title="Tv locali",Political TV
+http://stream7.livinlive.it/politicaltv/app/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FvC6Ixk.jpeg" group-title="Tv locali",Mediterranea TV
+http://stream10.xdevel.com/video1s975675-1403/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvdream.net/img/canale2.png" group-title="Tv locali",Canale 2
+http://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.antennasud.com/media/2022/11/cropped-cropped-favicon-192x192.png" group-title="Tv locali",Antenna Sud Extra
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/extra/media--video-stream-2--audio-stream-1.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radiocittadella.it/wp-content/uploads/2023/04/Group-231-1024x595.png" group-title="Musica",Cittadella Visual Radio TV
+https://59d7d6f47d7fc.streamlock.net/radiocittadella/radiocittadella/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.studio100.it/wp-content/uploads/2025/10/studio100-nuovo-logo.png" group-title="Tv locali",Studio 100
+http://cdn16.streamshow.it/cloud-studio100/studio100/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai4k.png" group-title="Rai",Rai 4K
+http://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.barinews111.it/wp-content/uploads/2024/09/cropped-favicon-192x192.png" group-title="Tv locali",BariNews 111
+https://stream.ets-sistemi.it:2020/barinews111/barinews111.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.canale122.it/wp-content/uploads/2025/03/cropped-logo_canale122_blu500x-180x180.png" group-title="Altro",Canale 122
+http://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dB68g7v.jpeg" group-title="News",Primaset 149
+http://primaset.servizistreaming.it/hls/streamingcanale1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/c1dW0wl.png" group-title="Musica",90 is Good
+https://64b16f23efbee.streamlock.net/isgoodforyou/isgoodforyou/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiokisskisstv.png" group-title="Musica",Radio Kiss Kiss TV
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Rai_Radio_2_-_Logo_2017.svg/330px-Rai_Radio_2_-_Logo_2017.svg.png" group-title="Rai",Rai Radio 2 Visual Radio
+#EXTVLCOPT:http-user-agent=rainet/4.0.8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L6M1SKv.jpeg" group-title="Salute",Pianeta Salute TV
+https://64b16f23efbee.streamlock.net/pianetasalutetv/pianetasalutetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtl1025tv.png" group-title="Musica",RTL 102.5 Traffic
+http://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cusanoitaliatv.it/wp-content/uploads/2023/09/logo_news7_01.png" group-title="News",Cusano News 7
+http://router.xdevel.com/video1s975363-1596/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vwDGgq4.jpeg" group-title="Altro",Man-ga
+http://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/manifest.m3u8
+#EXTINF:-1 tvg-id="IT3300001G3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3300001G3_20251125T102453SQUARE.png" group-title="Altro",Il Sole 24 Ore TV
+http://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://bejoy.kids/wp-content/uploads/2025/09/cropped-BeJoy_favicon-1-192x192.png" group-title="Kids",BeJoy.Kids
+https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8
+#EXTINF:-1 tvg-id="radiofreccia.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiofrecciatv.png" group-title="Musica",RadioFreccia
+http://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ihk5r4j.jpeg" group-title="Altro",Urania TV
+http://streamcdng5-69d6d7eab63943c4810c4098feaa0d9c.msvdn.net/live/S76542633/a8BwWIUxagF6/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radiontr264.it/wp-content/uploads/2025/02/cropped-cropped-radiontr264.jpeg" group-title="Musica",Radio NTR 264
+http://primaset.servizistreaming.it/hls/streamingcanale2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rdssocialtv.png" group-title="Musica",RDS Social TV
+http://stream.rdstv.radio/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiozetatv.png" group-title="Musica",Radio ZETA
+http://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4N34i32.png" group-title="Altro",Imprese
+http://streamer2.premio.link/imprese/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KfFqYQi.png" group-title="Musica",Radio Ibiza TV
+https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.digital-news.it/img/primo_piano/foto_grandi/RadioCapitalTv_pp.jpg" group-title="Musica",Radio Capital TiVù
+http://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.digital-news.it/img/primo_piano/foto_piccole/m2otv.jpg" group-title="Musica",Radio m2o TV
+http://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1 tvg-id="Radio Monte Carlo.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiomontecarlotv.png" group-title="Musica",Radio Montecarlo TV
+#EXTVLCOPT:http-user-agent=okhttp/5.3.2
+https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Virgin Radio.it" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/virginradiotv.png" group-title="Musica",Virgin Radio TV
+#EXTVLCOPT:http-user-agent=okhttp/5.3.2
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Class-Cnbc.it" tvg-logo="https://i.imgur.com/VoYG3ix.jpeg" group-title="Economia",Class CNBC
+http://www.dailymotion.com/cdn/live/video/x91c8ww.m3u8?sec=D9OwEfHs-e7O6pQ-qlnROg
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/54CO2u9.png" group-title="Musica",FM Italia
+http://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.sportitalia.it/wp-content/uploads/2024/08/primaveratv.jpg" group-title="Sport",Primavera TV
+http://distribution.sportitalialive.it/sportitalia/silive24_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="ITBC4700002CO" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/sportitalia.png" group-title="Sport",Sportitalia Solo Calcio
+http://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvdream.net/img/uninettuno-university-tv.png" group-title="Altro",UniNettuno University TV
+http://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
+#EXTINF:-1 tvg-id="ACI SPORT TV.it" tvg-logo="https://www.acisport.it/img/aci.png" group-title="Sport",ACI Sport TV
+http://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8_output_0.m3u8
+#EXTINF:-1 tvg-id="ITBB5000002N0" tvg-logo="https://giornaleradio.fm/wp-content/uploads/2023/03/cropped-giornale-radio-logo-2-192x192.png" group-title="News",Giornale Radio TV
+https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://giornaleradio.fm/wp-content/uploads/2023/10/RadioGRNews_Alta-100x100.png" group-title="News",Giornale Radio News TV
+https://gr2.fluid.stream/GR_sport/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvdream.net/img/tmw-radio-tv.png" group-title="Sport",TMW Radio TV
+https://tvd-tmw.fluid.stream/TMWRadioTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ITBD2300001MT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD2300001MT_20241022T043806SQUARE.png" group-title="Sport",Radio Bianconera TV
+https://tmw.fluid.stream/RadioBianconeraTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NcCtMqa.jpeg" group-title="Musica",RTL 102.5 Best
+http://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/mxfmfcanyvng.png" group-title="Musica",RTL 102.5 Bro&Sis
+http://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvdream.net/img/rtl-1025-caliente-cover.jpg" group-title="Musica",RTL 102.5 Caliente
+http://streamcdnr11-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BqMFu4r.jpeg" group-title="Musica",RTL 102.5 Disco
+http://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cloud.rtl.it/assets/play.rtl.it/2.1.1/img/logo/android-icon-192x192.png" group-title="Musica",RTL 102.5 Social TV
+http://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S82929343/cAcsSu4Wecc5/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiokisskisstv.png" group-title="Musica",Radio Kiss Kiss Italia TV
+https://kk.fluid.stream/KKTV01/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RsGiBwE.png" group-title="Tv locali",Radio Kiss Kiss Napoli TV
+https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvdream.net/img/go-tv.png" group-title="Altro",GO-TV Channel
+https://64b16f23efbee.streamlock.net/gooo/gooo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.ilsussidiario.tv/wp-content/uploads/2025/07/cropped-LOGO_SussiTV_compatto_colori-192x192.png" group-title="Altro",Il Sussidiario TV
+https://5f22d76e220e1.streamlock.net/finanzanow/finanzanow/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvdream.net/img/supersix.png" group-title="Altro",SuperSix TV
+https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvdream.net/img/euro-tv.png" group-title="Altro",Euro TV
+https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FBOJnfT.png" group-title="Kids",Iunior TV
+https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://d7ixxfssdn40o.cloudfront.net/64998caa30cfe/grafica/logo/logo-latvdeiviaggi-2018-per-sito_649f011276c5a.png" group-title="Altro",La TV dei viaggi
+https://bbtv.intvstream.net:3783/stream/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.peer.tv/assets-portal/peertv/img/favicon-192.png" group-title="Altro",Peer.tv
+http://iptv.peer.biz/live/peertv-it.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radiobruno.it/wp-content/uploads/2023/10/cropped-logo-radiobruno-favicon-512-512-192x192.png" group-title="Musica",Radio Bruno TV
+http://router.xdevel.com/video0s975758-473/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://radio4you.net/wp-content/uploads/2021/07/city4you-tv-logo-300x300.jpg" group-title="Musica",Radio 4 You Tv
+https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://bellaemonella.it/wp-content/uploads/2025/07/bm-nero-512-300x300.png" group-title="Musica",Radio Bellla & Monella TV
+https://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvdream.net/img/companytv.png" group-title="Musica",Company TV
+https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.51media.it/wp-content/uploads/2021/01/cropped-Senza-titolo-1-192x192.png" group-title="Musica",Radio 51 TV
+http://59d7d6f47d7fc.streamlock.net/canale51/canale51/chunklist_w1193883900.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.birikina.it/wp-content/uploads/2020/02/logo-BK.png" group-title="Musica",Radio Birikina TV
+http://tvd-bk.fluid.stream/RadioBirikinaTV/livestream/chunklist_w84398277.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.babayaga.fun/images/babayaga_ARANCIO.png" group-title="Musica",Babayaga TV
+http://stream1.xdevel.com/video0s975770-326/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9EYPIH3.jpeg" group-title="Musica",Miami Vice Radio TV
+https://5926fc9c7c5b2.streamlock.net/9326/9326/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvdream.net/img/zerounotv.png" group-title="Musica",Zerouno TV Music
+https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio7note.com/img/favicon/apple-icon-180x180.png" group-title="Musica",7 RadioVisione
+http://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvdream.net/img/parsifal-tv.png" group-title="Musica",Radio Parsifal TV
+http://stream9.xdevel.com/video0s976542-1303/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radioanni90.net/wp-content/uploads/2021/01/image0-560x560.png" group-title="Musica",Anni 90-La radio ufficiale
+https://585b674743bbb.streamlock.net/9076/9076/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lovefm.it/themes/default/assets/img_c/logo-love-new.png" group-title="Musica",Radio Love FM
+http://tvd-love.fluid.stream/LoveFM/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radiolinea.it/wp-content/uploads/2021/10/LINEA-500-300x300.png" group-title="Musica",Radio Linea n°1 TV
+https://64b16f23efbee.streamlock.net/radiolineatv/radiolineatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jRFUu6k.png" group-title="Musica",Radio JukeBox TV
+https://5926fc9c7c5b2.streamlock.net/9108/9108/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radiopescara.fm/radiopescara.png" group-title="Musica",Radio Pescara TV
+http://load-balancer.azotosolutions.com/cdnedge13/smil:live13.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7YJUOLs.jpeg" group-title="Musica",Radio Lombardia TV
+http://stream9.xdevel.com/video0s976574-1330/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/11776.v6.png" group-title="Musica",Radio StudioPiù
+https://5a1178b42cc03.streamlock.net/studiopiutv/studiopiutv/playlist.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skyline.it/wp-content/uploads/2021/10/SKYLINE-160.png" group-title="Musica",Radio Skyline TV
+https://64b16f23efbee.streamlock.net/skylinetv/skylinetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.mitology.tv/wp-content/uploads/2023/09/MitologyTV-logo-400w.png" group-title="Musica",Mitology TV
+https://64b16f23efbee.streamlock.net/mitologytv/mitologytv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Rte2K3x.png" group-title="Musica",Radio You & Me
+http://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HI7f029.jpeg" group-title="Musica",Love Music
+https://d4k.it/hls/live1/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvdream.net/img/radio-adige-tv.png" group-title="Musica",Radio Adige TV
+http://stream9.xdevel.com/video0s976463-1250/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/81/Logo_Senato_TV.svg/330px-Logo_Senato_TV.svg.png" group-title="Altro",Senato TV
+http://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/17SZ1SZ.jpeg" group-title="Rai",TGR Puglia (Diretta)
+http://tgrpuglia-live.akamaized.net/hls/live/2025570/tgrpuglia/tgrpuglia/tgrpuglia_1300/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ia3MdFW.jpeg" group-title="Musica",Vevo '70s (AU)
+http://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ia3MdFW.jpeg" group-title="Musica",Vevo '80s (AU)
+http://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ia3MdFW.jpeg" group-title="Musica",Vevo '90s (NZ)
+http://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo90saunz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ia3MdFW.jpeg" group-title="Musica",Vevo 2K (AU)
+http://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ia3MdFW.jpeg" group-title="Musica",Vevo Country (AU)
+http://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ia3MdFW.jpeg" group-title="Musica",Vevo Hip-Hop & R&B (US)
+https://t.freetv.fun/live/vevo-hip-hop-r-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ia3MdFW.jpeg" group-title="Musica",Vevo Pop (AU)
+http://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ia3MdFW.jpeg" group-title="Musica",Vevo Pop (US)
+https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ia3MdFW.jpeg" group-title="Musica",Vevo Retro Rock (AU)
+http://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XGndhXG.jpeg" group-title="Musica",XITE Hits (UK)
+http://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XGndhXG.jpeg" group-title="Musica",XITE Hits (DE)
+http://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XGndhXG.jpeg" group-title="Musica",XITE Celebrates (US)
+http://dt1s4l2cmiyit.cloudfront.net/XITE_Celebrates.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XGndhXG.jpeg" group-title="Musica",XITE Just Chill (US)
+http://dvnftgdlbnemm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dh48uzd9o895t/XITE_Just_Chill.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XGndhXG.jpeg" group-title="Musica",XITE Rock x Metal (US)
+http://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XGndhXG.jpeg" group-title="Musica",XITE 80s Flashback (US)
+http://d1n314cytqn9r3.cloudfront.net/XITE_80s_Flashback.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XGndhXG.jpeg" group-title="Musica",XITE 90s Throwback (US)
+http://d284aawtm5vi48.cloudfront.net/XITE_90s_Throwback.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Trace_UK_Logo.png" group-title="Musica",Trace UK
+http://amg01131-tracetv-amg01131c5-plex-us-4388.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg01131-tracetvfast-traceuk-plexus/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Trace_Brasil_logo.PNG" group-title="Musica",Trace Brasil
+http://amg01131-tracetv-tracebrazuca-plex-jszy8.amagi.tv/ts-us-e2-n1/playlist/amg01131-tracetv-tracebrazuca-plex/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.vibee.tv/wp-content/uploads/2023/08/bitmap.png" group-title="Musica",V2Beat TV
+http://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eS78YEG.jpeg" group-title="Musica",Totalmusic (UK)
+http://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eS78YEG.jpeg" group-title="Musica",Totalmusic Concerts (UK)
+http://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eS78YEG.jpeg" group-title="Musica",Totalmusic Dance (UK)
+http://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eS78YEG.jpeg" group-title="Musica",Totalmusic 2000s (UK)
+http://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eS78YEG.jpeg" group-title="Musica",Totalmusic 80s (UK)
+http://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall_250.png" group-title="Musica",Clubbing TV (FR)
+http://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://streamer.nexotv.it/i/Br2_J0BTlG7e/v1/t_f_webp/Br2_J0BTlG7e.png" group-title="Nexo TV",Nexo TV - Film-I drammatici
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://nexoapp.d-dr.com/api/live/i-drammatici/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://streamer.nexotv.it/i/evgdeRdyaLG1/v1/t_f_webp/evgdeRdyaLG1.jpeg" group-title="Nexo TV",Nexo TV - Il grande cinema
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://nexoapp.d-dr.com/api/live/il-grande-cinema/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://streamer.nexotv.it/i/esWH66aPtrvN/v1/t_f_webp/esWH66aPtrvN.png" group-title="Nexo TV",Nexo TV - Tutto Bruce Willis
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://nexoapp.d-dr.com/api/live/bruce-willis/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://streamer.nexotv.it/i/fMflokbgT-YU/v1/t_f_webp/fMflokbgT-YU.jpeg" group-title="Nexo TV",Nexo TV - Tutto musica
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://nexoapp.d-dr.com/api/live/tutto-musica/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://streamer.nexotv.it/i/HRO1hy-5kmYX/v1/t_f_webp/HRO1hy-5kmYX.jpeg" group-title="Nexo TV",Nexo TV - Rock Legends
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://nexoapp.d-dr.com/api/live/rock-legends/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://streamer.nexotv.it/i/5MwvQ8tzu2iW/v1/t_f_webp/5MwvQ8tzu2iW.jpeg" group-title="Nexo TV",Nexo TV - Hollywood Stories
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://nexoapp.d-dr.com/api/live/hollywood-stories/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://streamer.nexotv.it/i/8zhEuTAKoqb5/v1/t_f_webp/8zhEuTAKoqb5.jpeg" group-title="Nexo TV",Nexo TV - Archivio audiovisivo del movimento operaio e democratico
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://nexoapp.d-dr.com/api/live/aamod/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KenmEmX.jpeg" group-title="Altro",Plex TV - Robot Wars by Mech+
+https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-6470477fe536e0faaf10be9d.m3u8?X-Plex-Token=s96sC2Gf94KmQbuo7xpX|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KenmEmX.jpeg" group-title="Sport",Plex TV - TNA Wrestling Channel
+http://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/playlist/amg00966-anthem-tnawrestling-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ViinROo.jpeg" group-title="Mediaset",GF Vip Regia 1
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ViinROo.jpeg" group-title="Mediaset",GF Vip Regia 2
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ViinROo.jpeg" group-title="Mediaset",GF Vip Un'ora fa...
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="IT:.Film.Top.-.Rakuten.TV.be" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/11c05b3e-6fb6-45f6-8d49-40de524478b0-width200-quality90.jpeg" group-title="Rakuten TV",Rakuten TV - Film Top
+https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
+#EXTINF:-1 tvg-shift="2" tvg-id="IT:.Azione.-.Rakuten.TV.be" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/f4795c00-5b72-45db-a2df-fc35cbe7f97a-width200-quality90.jpeg" group-title="Rakuten TV",Rakuten TV - Azione
+https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8
+#EXTINF:-1 tvg-id="IT:.Commedia.-.Rakuten.TV.be" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/3d0e3950-c011-4e70-9706-868e7f41f8df-width200-quality90.jpeg" group-title="Rakuten TV",Rakuten TV - Commedia
+https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8
+#EXTINF:-1 tvg-shift="2" tvg-id="IT:.Dramma.-.Rakuten.TV.be" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/2d93c9f1-7d71-44c4-b48a-1c178020e817-width200-quality90.jpeg" group-title="Rakuten TV",Rakuten TV - Dramma
+https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8
+#EXTINF:-1 tvg-shift="2" tvg-id="IT:.Romance.-.Rakuten.TV.be" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/d5723675-ccd5-4765-82bf-b785a57417de-width200-quality90.jpeg" group-title="Rakuten TV",Rakuten TV - Romance
+https://3e0f2491d8634a58967529df3f424c0d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8
+#EXTINF:-1 tvg-shift="2" tvg-id="IT:.Film.Asiatici.-.Rakuten.TV.be" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/075dd5c5-f487-4d03-bbaa-5e7f0bea9490-width200-quality90.jpeg" group-title="Rakuten TV",Rakuten TV - Film asiatici
+https://asian-cinema-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6431/master.m3u8
+#EXTINF:-1 tvg-id="IT:.Fantascienza.-.Rakuten.TV.be" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/b6d4155c-164d-4902-92ae-21c0264a3d67-width200-quality90.jpeg" group-title="Rakuten TV",Rakuten TV - Fantascienza
+https://sci-fi-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6430/master.m3u8
+#EXTINF:-1 tvg-id="IT:.Cine.Peplum.be" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/452c5681-b854-4751-a34e-6c71a148df25-width200-quality90.jpeg" group-title="Rakuten TV",Rakuten TV - Cine Peplum
+http://9466b388.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X1dQLTFfSExT/playlist.m3u8
+#EXTINF:-1 tvg-shift="2" tvg-id="IT:.Dark.Matter.be" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/74456f8a-b77a-4243-ad54-0928139cba1e-width200-quality90.jpeg" group-title="Rakuten TV",Rakuten TV - Dark Matter TV
+http://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883020
+#EXTINF:-1 tvg-id="IT:.Family.-.Rakuten.TV.be" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/66787e64-9689-49ed-a1bb-8a8e706d13eb-width200-quality90.jpeg" group-title="Rakuten TV",Rakuten TV - Family
+https://family-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8
+#EXTINF:-1 tvg-shift="2" tvg-id="IT:.Stingray.Naturescape.be" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/7791905f-9f8d-45ca-8ddd-a808cab7eb24-width200-quality90.jpeg" group-title="Rakuten TV",Rakuten TV - Stingray Naturescape
+http://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883056
+#EXTINF:-1 tvg-id="IT:.Metal.Rocks.be" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/d87dc825-59c3-42cd-b973-a619c211f3a3-width200-quality90.jpeg" group-title="Rakuten TV",Rakuten TV - Metal.Rocks
+http://amg00771-amg00771c5-rakuten-gb-9713.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00771-kochfilmsfast-metalrocks-rakutengb/playlist.m3u8
+#EXTINF:-1 tvg-id="IT:.That`s.70s.be" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/21ddd31b-ff64-4afe-aaca-0eb13b1a7cff-width200-quality90.jpeg" group-title="Rakuten TV",Rakuten TV - That's 70s
+http://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-shift="2" tvg-id="IT:.That`s.80s.be" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/d1bd1f06-f3a0-47ec-abac-62342ff42fdb-width200-quality90.jpeg" group-title="Rakuten TV",Rakuten TV - That's 80s
+http://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="IT:.That`s.90s00s.be" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/4f51ac5c-a9ee-43ef-b44e-4eba377df3b2-width200-quality90.jpeg" group-title="Rakuten TV",Rakuten TV - That's 90s00s
+http://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
+#EXTINF:-1 tvg-id="IT:.That`s.ROCK.be" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/e8d66036-f48b-417d-961d-45b7bf5ca5c7-width200-quality90.jpeg" group-title="Rakuten TV",Rakuten TV - That's Rock
+http://rakutenaa-lightning-now90s-rakuten-2968n.amagi.tv/playlist/rakutenAA-lightning-now90s-rakuten/playlist.m3u8
+#EXTINF:-1 tvg-shift="2" tvg-id="IT:.Qwest.TV.be" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/ea0298dc-538a-44b7-b58c-fa23625ff1a0-width200-quality90.jpeg" group-title="Rakuten TV",Rakuten TV - Qwest TV
+http://rakutenaa-qwestjazz-rakuten-7enhv.amagi.tv/playlist/rakutenAA-qwestjazz-rakuten/playlist.m3u8
+#EXTINF:-1 tvg-id="IT:.Qello.Concerts.by.Stingray.be" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/47d3b1e4-e855-414a-89f5-b72e0c5cd32d-width200-quality90.jpeg" group-title="Rakuten TV",Rakuten TV - Qello Concerts by Stingray
+http://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883052
+#EXTINF:-1 tvg-id="IT:.Juventus.Play.be" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0a5304d3-8cac-40a1-9807-5e86d97717d0-width200-quality90.jpeg" group-title="Rakuten TV",Rakuten TV - Juventus Play
+http://amg27604-amg27604c3-amgplt0148.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg27604-amg27604c3-amgplt0148/playlist.m3u8
+#EXTINF:-1 tvg-id="IT:.INTER.24/7.be" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/140a6ce2-d2d9-4d5c-ae6e-55249b647730-width200-quality90.jpeg" group-title="Rakuten TV",Rakuten TV - Inter 24/7
+http://amg27604-amg27604c2-amgplt0148.playout.now3.amagi.tv/playlist/amg27604-amg27604c2-amgplt0148/playlist.m3u8
