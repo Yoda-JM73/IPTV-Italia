@@ -40,7 +40,7 @@ https://w1.mediastreaming.it/telebari/livestream/playlist.m3u8
 http://live2.telesveva.com/hls/svevahd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Tele_Dehon.png" group-title="Religione",Tele Dehon
 https://5f22d76e220e1.streamlock.net/rtmpteledehon/smil:rtmpteledehon.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="canale 20.it" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/20_Mediaset.png" group-title="Mediaset",20 Mediaset
+#EXTINF:-1 tvg-id="canale 20.it" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/20_Mediaset.jpg" group-title="Mediaset",20 Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Rai 4.it" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Rai_4.png" group-title="Rai",Rai 4
