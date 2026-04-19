@@ -9,13 +9,13 @@ Questa repository è costituita da due liste IPTV, tv e radio. La lista tv compr
       <td valign="top"><font face="Helvetica, Arial, sans-serif"><b>TV</b></font></td>
       <td valign="top"><font face="Helvetica, Arial, sans-serif"><a
             moz-do-not-send="true"
-href="https://github.com/Yoda-JM73/IPTV-Italia/blob/main/IPTV.m3u">https://github.com/Yoda-JM73/IPTV-Italia/blob/main/IPTV.m3u</a></font></td>
+href="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/IPTV.m3u">https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/IPTV.m3u</a></font></td>
     </tr>
     <tr>
       <td valign="top"><font face="Helvetica, Arial, sans-serif"><b>Radio</b></font></td>
       <td valign="top"><font face="Helvetica, Arial, sans-serif"><a
             moz-do-not-send="true"
-href="https://github.com/Yoda-JM73/IPTV-Italia/blob/main/Radio.m3u">https://github.com/Yoda-JM73/IPTV-Italia/blob/main/Radio.m3u</a></font></td>
+href="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/Radio.m3u">https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/Radio.m3u</a></font></td>
     </tr>
   </tbody>
 </table>
