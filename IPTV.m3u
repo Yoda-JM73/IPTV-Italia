@@ -76,6 +76,8 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
 https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="RTL 102.5 TV.it" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/RTL_102_5.png" group-title="Musica",RTL 102.5 TV
 http://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+#EXTINF:-1 tvg-id="IT31000026G" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Discovery.jpg" group-title="Discovery",Discovery
+http://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
 #EXTINF:-1 tvg-id="Giallo.it" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Giallo.png" group-title="Discovery",Giallo
 http://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8
 #EXTINF:-1 tvg-id="TOPCrime.it" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Top_Crime.jpg" group-title="Mediaset",Top Crime
@@ -452,3 +454,145 @@ http://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 http://amg27604-amg27604c3-amgplt0148.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg27604-amg27604c3-amgplt0148/playlist.m3u8
 #EXTINF:-1 tvg-id="IT:.INTER.24/7.be" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/140a6ce2-d2d9-4d5c-ae6e-55249b647730-width200-quality90.jpeg" group-title="Rakuten TV",Rakuten TV - Inter 24/7
 http://amg27604-amg27604c2-amgplt0148.playout.now3.amagi.tv/playlist/amg27604-amg27604c2-amgplt0148/playlist.m3u8
+#EXTINF:-1 tvg-id="ITBC4700004EQ" tvg-logo="https://i.imgur.com/ZiKZC46.jpeg" group-title="Wedo TV",Wedo TV - Movies
+http://amg00735-videosolutionsa-wedomoviesit-ono-c0mvz.amagi.tv/playlist/amg00735-videosolutionsa-wedomoviesit-ono/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="ITBC4700003GR" tvg-logo="https://i.imgur.com/ZiKZC46.jpeg" group-title="Wedo TV",Wedo TV - Love the Planet
+https://amg01821-lovetv-amg01821c11-wedotv-eu-1098.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovetheplanetit-wedotveu/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="ITBC1100001G5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100001G5_20221109T010605SQUARE.png_20221109010606.png" group-title="Samsung TV Plus",Samsung TV Plus - Chili: Alta Tensione
+https://8420ed77622b428facfacf6063321a64.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_CHILIAltaTensione/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="ITBC1100003KC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100003KC_20230412T042552SQUARE.png_20230412042552.png" group-title="Samsung TV Plus",Samsung TV Plus - Chili: Grandi Nomi-Film da Oscar
+http://chili-chiliindimenticabili-1-it.samsung.wurl.tv/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="ITBC1100002ZU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100002ZU_20221214T044958SQUARE.png_20221214044959.png" group-title="Samsung TV Plus",Samsung TV Plus - Chili: Smile
+https://e5eaf4458bd54b3587053805e5e65138.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_CHILIBuonumore/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="ITBC11000047F" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC11000047F_20221012T021058SQUARE.png_20221012021058.png" group-title="Samsung TV Plus",Samsung TV Plus - Chili: Velvet 
+http://chili-chilivelvet-1-it.samsung.wurl.tv/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="ITBC11000108G" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC11000108G_20241022T051632SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Chili: Hip Hop TV
+http://chili-hiphop-tv-1-it.samsung.wurl.tv/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="ITBC1100011RK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100011RK_20241022T043817SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Chili: Rock TV
+http://chili-rock-tv-1-it.samsung.wurl.tv/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="IT300005J9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT300005J9_20251230T031314SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Sony One: Film divertenti
+https://076507c6230e400ebcce99e452f12b7f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-824-IT-SONYONEFILMDIVERTENTI-LG_IT/playlist.m3u8
+#EXTINF:-1 tvg-id="IT300004KM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT300004KM_20241022T043833SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Sony One: Film d'azione
+https://a28a692c016c4af79ab371df5054a0be.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-823-IT-SONYONEFILMDAZIONE-LG_IT/playlist.m3u8
+#EXTINF:-1 tvg-id="IT300006W3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT300006W3_20260224T031408SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Sony One: Gli imperdibili
+https://15bd51164d444cf0b03f472a0b40381b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-826-IT-SONYONEPOPOLARI-LG_IT/playlist.m3u8
+#EXTINF:-1 tvg-id="IT3000035B" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3000035B_20241022T043841SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Sony One: Serie da ridere
+https://5ee04aace69647d9beda78401dc4c0ee.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-825-IT-SONYONESERIEDARIDERE-LG_IT/playlist.m3u8
+#EXTINF:-1 tvg-id="IT300007SE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT300007SE_20241022T043839SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Sony One: Serie Thriller
+https://ffec840c10d546f0a04a004f8fd61ce4.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-827-IT-SONYONESERIETHRILLER-LG_IT/playlist.m3u8
+#EXTINF:-1 tvg-id="ITBC11000050E" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC11000050E_20250131T145333SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Adrenaline Movies
+http://758d48db.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pdF9GdWxsTW9vbl9ITFM/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="ITBC1100008L4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100008L4_20250326T013537SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Alberto Sordi & Co
+http://d7f4a98f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctaXRfUmlzYXRlYWxsaXRhbGlhbmFfSExT/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="ITBA3300024IU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300024IU_20260324T035219SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Bizzarro Movies
+http://d7d3864d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pdF9CaXp6YXJyb01vdmllc19ITFM/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="ITBD600001CL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD600001CL_20240423T033448SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Brividy Cinema
+http://ixmediasrl-serially-1-it.samsung.wurl.tv/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="ITBD140000119" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD140000119_20260126T115809SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - CG Cine Mania
+http://chili-film-sorrisi-1-it.samsung.wurl.tv/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="ITBA14000093A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA14000093A_20251111T011343SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - CG Grandi Film
+http://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="IT3800001XM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3800001XM_20260210T040132SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Cine Amore
+http://4bed473b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pdF9BbW9pbE5hdGFsZV9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="IT3600005AL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3600005AL_20250603T004958SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Cine Paura
+http://amg02512-amg02512c7-samsung-it-5138.playouts.now.amagi.tv/playlist/amg02512-nexodigital-comedytime-samsungit/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="ITBD3200002DU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200002DU_20250603T005001SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Cine Thriller
+https://amg02512-nexodigital-amg02512c2-samsung-it-765.playouts.now.amagi.tv/playlist/amg02512-nexodigital-levitedeglialtri-samsungit/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="ITBD1400003D0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1400003D0_20260113T032809SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - CineMadame
+http://plaionpictures-cinemadame-1-it.samsung.wurl.tv/3000.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="IT300029U3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT300029U3_20250218T040352SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Cinemalizia
+http://amg02512-amg02512c6-samsung-it-5137.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg02512-nexodigital-nataletime-samsungit/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="ITBA33000238E" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA33000238E_20251028T011515SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Cinema italiano
+http://773557d8.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pdF9DaW5lbWFTZWdyZXRvX0hMUw/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="IT3600001Q1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3600001Q1_20241112T093246SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Crime Time
+http://amg02512-amg02512c9-samsung-it-5470.playouts.now.amagi.tv/playlist/amg02512-nexodigital-crimetime-samsungit/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="IT500002FD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500002FD_20241009T151914SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Duri a morire
+https://amg02512-amg02512c5-samsung-it-2560.playouts.now.amagi.tv/playlist/amg02512-nexodigital-duriamorire-samsungit/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="ITBD1100001B7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1100001B7_20250527T014828SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Gli immortali-Van Damme vs Lundgren
+https://amg02512-nexodigital-amg02512c1-nexodigital-eu-613.playouts.now.amagi.tv/playlist/amg02512-nexodigital-houseofdocs-nexodigitaleu/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="ITBD10000019E" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD10000019E_20241022T051628SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Grjngo-Film Western
+https://e5f682608a9344b48223fc78572404d9.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_GrjngoFilmWestern/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="IT500004JK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500004JK_20250107T022417SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Romantica
+http://amg00069-amg00069c3-samsung-it-5223.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00069-highview-romantica-samsungit/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="ITBD3200001VR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200001VR_20260210T035236SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Supercinema
+https://amg02512-nexodigital-amg02512c3-samsung-it-766.playouts.now.amagi.tv/playlist/amg02512-nexodigital-cinemaexcelsior-samsungit/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="IT3600004TW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3600004TW_20250211T014017SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Western Time
+http://amg02512-amg02512c8-samsung-it-5139.playouts.now.amagi.tv/playlist/amg02512-nexodigital-westerntime-samsungit/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="ITBD3200003HL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200003HL_20241022T051531SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Andromeda
+http://d1si3n1st4nkgb.cloudfront.net/10502/88826006/hls/master.m3u8?ads.xumo_channelId=88826006|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="ITBD3200004KN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200004KN_20241022T051533SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Autostop per il cielo
+http://d1si3n1st4nkgb.cloudfront.net/10502/88826008/hls/master.m3u8?ads.xumo_channelId=88826008|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="IT2900001B5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2900001B5_20250916T003606SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - BBC Series
+http://amg00793-amg00793c29-samsung-it-4958.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramaitalysamsungit-samsungit/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="IT3800003GX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3800003GX_20251111T012433SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Guardia Costiera
+https://ddf4da21875f49698bad2f97280760bf.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_GuardiaCostiera/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="ITBD3200005YA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200005YA_20241022T044116SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Mutant X
+http://d1si3n1st4nkgb.cloudfront.net/10502/88826007/hls/master.m3u8?ads.xumo_channelId=88826007|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="ITBD3200006F0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200006F0_20250527T014845SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Relic Hunter
+http://d1si3n1st4nkgb.cloudfront.net/10502/88826013/hls/master.m3u8?ads.xumo_channelId=88826013|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="IT3800005HI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3800005HI_20251209T004731SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Squadra Speciale Lipsia
+https://a06b1b4d685b4901bf3819b6e898d517.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_SquadraSpecialeLipsia/playlist.m3u8?ads.wurl_channel=2138|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="IT2000003B8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2000003B8_20250902T003835SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Vita da strega
+https://dd42c5dee48045f991c3881d8b146737.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-LINEAR-1073-IT-VITADASTREGA-LG_IT/playlist.m3u8
+#EXTINF:-1 tvg-id="IT3700001R9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3700001R9_20251111T011346SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Forensic Files
+http://d1si3n1st4nkgb.cloudfront.net/10502/88826015/hls/master.m3u8?ads.xumo_channelId=88826015|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="IT1200001Q8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1200001Q8_20241022T043854SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Storie criminali
+http://amg01821-lovetv-amg01821c21-lg-it-3263.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovecrimeandhistoryitalycc-lgit/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="ITBD1000006RD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1000006RD_20250624T021752SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - True Crime
+https://5951fa57b1f9493fb4c5ba84566340cc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_SeriallyCrime/playlist.m3u8?ads.wurl_channel=1546|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="IT3200002L5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200002L5_20241030T140840SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - BBC Earth
+https://amg00793-amg00793c23-samsung-it-4780.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearthitaly-samsungit/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="IT2100001EZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2100001EZ_20251111T012436SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - NatureTime
+http://amg01515-amg01515c47-samsung-it-9436.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01515-blueskyeentertainment-naturetimeemeaita-samsungit/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="IT9000023T" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT9000023T_20260113T032807SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - II Guerra Mondiale-La storia
+https://b6a278eef7f34e11860a56f954ca5059.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_80Anni2aGuerraMondiale/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="ITBD600002HT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD600002HT_20241022T051640SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Just for Laughs
+http://distributionsjustepourrire-justforlaughsgags-1-it.samsung.wurl.tv/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="ITAJ4500016FM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ4500016FM_20241022T043634SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - The Pet Collective
+http://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="ITBD3200007SZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200007SZ_20250513T010706SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Bernard l'orso
+http://daiconnect.com/live/hls/tvup/lg-planetajuniorit/.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="IT3800010K1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3800010K1_20251209T004749SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Masha e Orso
+http://amg01954-amg01954c4-samsung-it-10210.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01954-animaccordltd-mashaeorso-samsungit/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="ITBC2100001G9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC2100001G9_20230412T042542SQUARE.png_20230412042543.png" group-title="Samsung TV Plus",Samsung TV Plus - Vevo Pop
+http://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopit-rakutenit/playlist.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="ITBD1900010JL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1900010JL_20241022T043922SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Vevo '70s & '80s
+http://d1n329euzmul63.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r3cli7e98vul7/Vevo70sand80s_IT.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="ITBC210000200" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC210000200_20230412T042541SQUARE.png_20230412042541.png" group-title="Samsung TV Plus",Samsung TV Plus - Vevo '90s & '00s
+http://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevo90sand00sit-rakutenit/playlist.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="ITBA2200008IM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA2200008IM_20251111T012413SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Radio Italia Live
+http://radioitalia-samsungitaly.amagi.tv/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="ITBA3300041LY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png" group-title="Samsung TV Plus",Samsung TV Plus - Trace Urban
+http://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurbanit-samsungit/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="ITBA3300042HE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300042HE_20241022T043641SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Trace Latina
+http://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="IT2500001IF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2500001IF_20241022T051559SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Cool Summer Channel
+http://d3mza6qljp67l5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rpc4qub3zg7qt/csts.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="IT39000028R" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT39000028R_20241105T025410SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - K-Pop by CJ ENM
+https://d3d7473calet0c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hu70c4r2ldxrl/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8?ads.service_id=IT39000028R|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="IT1700002R5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1700002R5_20251013T054541SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - New Kpop
+https://jmp2.uk/stvp-IT1700002R5|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="IT500006GE" tvg-logo="https://www.70-80.it/wp-content/uploads/2020/03/logo-70-80-300x300.jpg" group-title="Samsung TV Plus",Samsung TV Plus - 70-80 TV
+https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
+#EXTINF:-1 tvg-id="IT500011RG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500011RG_20251209T004746SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Gambero Rosso
+http://d2gqna20cltcqm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i3rvj12n6zp49/GamberoRosso_IT.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="ITBD4100007LO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4100007LO_20241022T051525SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - A tavola
+http://dtsorovv03oh7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ehf4c6ojtfs4b/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="IT12000029J" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT12000029J_20241105T025401SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Viaggi e sapori
+http://amg01821-amg01821c25-plex-italy-5449.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-viaggiandsaporicc-plexitaly/playlist.m3u8
+#EXTINF:-1 tvg-id="IT5100003XM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT5100003XM_20260210T040129SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Beauty Channel
+https://d98350091e3549d8bee5a8d0b40e34df.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_BeautyChannel/playlist.m3u8?ads.wurl_channel=2185|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="IT500010AQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500010AQ_20251118T015457SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Class TV Moda
+http://de7w7o1fgdvs4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-98ub43liqixi4/ClassTVModa_IT.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="ITBA33000374G" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA33000374G_20241022T043949SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - 5 minuti creativi
+https://d266mze7uh4wuz.cloudfront.net/playlist/amg02051-amg02051c7-274/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="IT3000282Q" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3000282Q_20250811T173011SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Motor1
+http://amg00614-amg00614c1-amgplt0007.playout.now3.amagi.tv/playlist/amg00614-amg00614c1-amgplt0007/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="IT2900003UK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2900003UK_20260120T044620SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - AutoMoto
+http://d2d70kuzq4qhmm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nwqkjgrx3umyk/Automoto_IT.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="IT600001L6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT600001L6_20241022T051638SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Italian Fishing TV
+http://fms.premio.link/fishingtv/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="IT3200006YF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200006YF_20241022T044114SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Mudù-Risate dal Sud
+http://ixmedia-srl-risatealsud-1-it.samsung.wurl.tv/playlist.m3u8|user-agent=okhttp/5.3.2
+#EXTINF:-1 tvg-id="IT2600009QD" tvg-logo="https://i.imgur.com/681Oi1x.jpeg" group-title="Samsung TV Plus",Samsung TV Plus - Euronews
+http://jmp2.uk/stvp-IT2600009QD|user-agent=okhttp/5.3.2
