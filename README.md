@@ -1,5 +1,5 @@
 # IPTV-Italia
-Questa repository è costituita da due liste IPTV, tv e radio. La lista tv comprende i link ai principali canali italiani, ad alcuni canali NexoTV e Rakuten TV, più qualche canale musicale estero. La lista radio include le principali stazioni italiane ed altre estere.
+Questa repository è costituita da due liste IPTV, tv e radio. La lista tv comprende i link ai principali canali italiani, ad alcuni canali NexoTV, Rakuten TV e Samsung TV Plus, più qualche canale musicale estero. La lista radio include le principali stazioni italiane ed altre estere.
 
 # Le playlist
 <table cellpadding="2" cellspacing="2" border="1" width="515"
