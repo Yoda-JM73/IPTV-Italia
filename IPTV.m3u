@@ -61,6 +61,10 @@ http://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="TV2000.it" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Tv2000.png" group-title="Religione",TV2000
 http://hls.live2.meride.tv/hls/live/2028947/pu934tjb/hls_1_3000/chunklist.m3u8
+#EXTINF:-1 tvg-id="LA7 Cinema.it" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/LA7_Cinema.jpg" group-title="Altro",La7 Cinema
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://d15umi5iaezxgx.cloudfront.net/HBBTV/LA7D/DASH/Live.mpd
 #EXTINF:-1 tvg-id="La 5.it" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/La5.png" group-title="Mediaset",La 5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
@@ -201,6 +205,10 @@ http://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/ma
 http://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Bejoy_Kids.jpg" group-title="Kids",BeJoy.Kids
 https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/248tv.png" group-title="Altro",248 TV
+https://5f22d76e220e1.streamlock.net/canale2/canale2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Value_24.png" group-title="Economia",Value 24 TV
+https://5f22d76e220e1.streamlock.net/canale1/canale1/playlist.m3u8
 #EXTINF:-1 tvg-id="radiofreccia.it" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Radiofreccia.jpg" group-title="Musica",RadioFreccia
 http://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Urania_TV.png" group-title="Altro",Urania TV
@@ -225,6 +233,8 @@ https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Virgin Radio.it" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Virgin_Radio.png" group-title="Musica",Virgin Radio TV
 #EXTVLCOPT:http-user-agent=okhttp/5.3.2
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Sky Sport F1 HD.it" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Sky_Sport_F1.jpg" group-title="Sport" tvg-chno="800",Sky Sport F1
+http://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11222/skysportweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:-1 tvg-id="Class-Cnbc.it" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Class_CNBC.png" group-title="Economia",Class CNBC
 http://www.dailymotion.com/cdn/live/video/x91c8ww.m3u8?sec=D9OwEfHs-e7O6pQ-qlnROg
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/FMI.jpg" group-title="Musica",FM Italia
