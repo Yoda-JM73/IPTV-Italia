@@ -491,7 +491,7 @@ https://5ee04aace69647d9beda78401dc4c0ee.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="IT300007SE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT300007SE_20241022T043839SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Sony One: Serie Thriller
 https://ffec840c10d546f0a04a004f8fd61ce4.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-827-IT-SONYONESERIETHRILLER-LG_IT/playlist.m3u8
 #EXTINF:-1 tvg-id="ITBC11000050E" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC11000050E_20250131T145333SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Adrenaline Movies
-http://758d48db.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pdF9GdWxsTW9vbl9ITFM/playlist.m3u8|user-agent=okhttp/5.3.2
+http://jmp2.uk/stvp-ITBC11000050E|user-agent=okhttp/5.3.2
 #EXTINF:-1 tvg-id="ITBC1100008L4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100008L4_20250326T013537SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Alberto Sordi & Co
 http://d7f4a98f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctaXRfUmlzYXRlYWxsaXRhbGlhbmFfSExT/playlist.m3u8|user-agent=okhttp/5.3.2
 #EXTINF:-1 tvg-id="ITBA3300024IU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300024IU_20260324T035219SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Bizzarro Movies
@@ -503,7 +503,7 @@ http://chili-film-sorrisi-1-it.samsung.wurl.tv/playlist.m3u8|user-agent=okhttp/5
 #EXTINF:-1 tvg-id="ITBA14000093A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA14000093A_20251111T011343SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - CG Grandi Film
 http://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8|user-agent=okhttp/5.3.2
 #EXTINF:-1 tvg-id="IT3800001XM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3800001XM_20260210T040132SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Cine Amore
-http://4bed473b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pdF9BbW9pbE5hdGFsZV9ITFM/playlist.m3u8
+http://jmp2.uk/stvp-IT3800001XM|user-agent=okhttp/5.3.2
 #EXTINF:-1 tvg-id="IT3600005AL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3600005AL_20250603T004958SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Cine Paura
 http://amg02512-amg02512c7-samsung-it-5138.playouts.now.amagi.tv/playlist/amg02512-nexodigital-comedytime-samsungit/playlist.m3u8|user-agent=okhttp/5.3.2
 #EXTINF:-1 tvg-id="ITBD3200002DU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200002DU_20250603T005001SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Cine Thriller
@@ -513,7 +513,7 @@ http://plaionpictures-cinemadame-1-it.samsung.wurl.tv/3000.m3u8|user-agent=okhtt
 #EXTINF:-1 tvg-id="IT300029U3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT300029U3_20250218T040352SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Cinemalizia
 http://amg02512-amg02512c6-samsung-it-5137.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg02512-nexodigital-nataletime-samsungit/playlist.m3u8|user-agent=okhttp/5.3.2
 #EXTINF:-1 tvg-id="ITBA33000238E" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA33000238E_20251028T011515SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Cinema italiano
-http://773557d8.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pdF9DaW5lbWFTZWdyZXRvX0hMUw/playlist.m3u8|user-agent=okhttp/5.3.2
+http://jmp2.uk/stvp-ITBA33000238E|user-agent=okhttp/5.3.2
 #EXTINF:-1 tvg-id="IT3600001Q1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3600001Q1_20241112T093246SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Crime Time
 http://amg02512-amg02512c9-samsung-it-5470.playouts.now.amagi.tv/playlist/amg02512-nexodigital-crimetime-samsungit/playlist.m3u8|user-agent=okhttp/5.3.2
 #EXTINF:-1 tvg-id="IT500002FD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500002FD_20241009T151914SQUARE.png" group-title="Samsung TV Plus",Samsung TV Plus - Duri a morire
