@@ -191,15 +191,20 @@ https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=rainet/4.0.8
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Rai_Italia.png" group-title="Rai" tvg-chno="203",Rai Italia-Australia
-http://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8|user-agent=rainet/4.0.8
+#EXTVLCOPT:http-user-agent=rainet/4.0.8
+http://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Rai_Italia.png" group-title="Rai" tvg-chno="204",Rai Italia-Sud Africa
-http://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8|user-agent=rainet/4.0.8
+#EXTVLCOPT:http-user-agent=rainet/4.0.8
+http://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Rai_Italia.png" group-title="Rai" tvg-chno="205",Rai Italia-Sud America
-http://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8|user-agent=rainet/4.0.8
+#EXTVLCOPT:http-user-agent=rainet/4.0.8
+http://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Rai_World_Premium.jpg" group-title="Rai" tvg-chno="206",Rai World Premium
-http://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8|user-agent=rainet/4.0.8
+#EXTVLCOPT:http-user-agent=rainet/4.0.8
+http://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Mediaset_Italia.png" group-title="Mediaset" tvg-chno="207",Mediaset Italia-Australia e Asia
-http://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8|user-agent=HbbTV/1.6.1
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/Pianeta_Salute_TV.jpg" group-title="Salute" tvg-chno="221",Pianeta Salute TV
 https://64b16f23efbee.streamlock.net/pianetasalutetv/pianetasalutetv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Yoda-JM73/IPTV-Italia/refs/heads/main/loghi/RTL_102_5_Traffic.png" group-title="Musica" tvg-chno="233",RTL 102.5 Traffic
